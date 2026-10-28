@@ -1,0 +1,52 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 3 of 3" at 223,69 size 228x66
+           "PrimeXBT" at 2400,214 size 0x105
+           "Prime Technology LTD" at 2400,349 size 0x57
+[tappable] (said as: Install) at 2400,487 size 0x111
+           "Easy to Use. Start Today" at 2400,625 size 0x57
+           "Analyze, plan, and manage your trading journey with confidence." at 2400,691 size 0x57
+           "4.6" at 2400,810 size 0x72
+           "9 thousand" at 2400,879 size 0x66
+           "1 million" at 2400,879 size 0x66
+           id=click-hint-container at 2340,540 size 119x1080
+           id=panel-container at 2400,955 size 0x249
+           "The Seven Deadly
+Sins" at 1840,265 size 666x207
+           "Netmarble" at 1840,400 size 666x57
+[tappable] (said as: Install) at 1757,487 size 501x111
+           "Anime open-world RPG" at 1618,625 size 1110x57
+           "Together We Run, Bound by Destiny" at 1618,691 size 1110x57
+           "4.2" at 1100,810 size 75x72
+           "50 thousand" at 1201,879 size 276x66
+           "2 million" at 1544,879 size 177x66
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,487 size 0x111
+           "You will be taken to the website after the ad" at 2400,766 size 0x153
+           id=panel-layer1 at 2400,1080 size 0x0
+           id=panel-layer2 at 2400,955 size 0x249
+           id=click-hint-container at 523,540 size 864x1080
+           "Install" id=install-button at 1793,487 size 573x111
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "Temu" at 2400,1080 size 0x0
+           "4.5" at 2400,1080 size 0x0
+           id=install-button-place-holder at 2400,1080 size 0x0
+           id=expansion-button at 2400,957 size 0x90
+[tappable] (said as: Install) id=install-button at 2400,955 size 0x111
+           "You will be taken to the website
+after the ad" at 523,955 size 690x207
+           "Install" at 2400,1080 size 0x0
+           "Install" at 2400,955 size 0x111
