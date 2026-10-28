@@ -1,0 +1,51 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 3 of 3" at 223,69 size 228x66
+           id=click-hint-container at 2340,540 size 119x1080
+           id=panel-container at 2400,955 size 0x249
+           "Amazon Shopping" at 2400,214 size 0x105
+           "Amazon Mobile LLC" at 2400,349 size 0x57
+[tappable] (said as: Install) at 2400,487 size 0x111
+           "Daily deals on top brands." at 2400,625 size 0x57
+           "Shop the latest electronic products." at 2400,691 size 0x57
+           "4.4" at 2400,810 size 0x72
+           "4 million" at 2400,879 size 0x66
+           "1 billion" at 2400,879 size 0x66
+           id=click-hint-container at 1186,540 size 2190x1080
+           id=panel-container at 1186,955 size 1350x249
+           "You will be taken to the website after the ad" at 2400,766 size 0x153
+           id=panel-layer1 at 2400,1080 size 0x0
+           id=panel-layer2 at 2400,955 size 0x249
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,487 size 0x111
+           "You will be taken to the website after the ad" at 1186,766 size 918x153
+           id=panel-layer1 at 1186,955 size 1542x249
+           id=panel-layer2 at 1186,955 size 1542x249
+           "Doto" at 2400,1080 size 0x0
+           "4.3" at 2400,1080 size 0x0
+           id=install-button-place-holder at 2400,1080 size 0x0
+           id=expansion-button at 2400,957 size 0x90
+[tappable] (said as: Install) id=install-button at 2400,955 size 0x111
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "Temu" at 1109,919 size 897x105
+           "4.5" at 700,1006 size 78x75
+           id=install-button-place-holder at 1757,955 size 309x111
+           id=expansion-button at 569,1080 size 87x0
+[tappable] (said as: Install) id=install-button at 1757,955 size 309x111
+           "Install" at 2400,1080 size 0x0
+           "Install" at 2400,955 size 0x111
+           "Install" at 1756,955 size 126x111
+           "Install" at 1756,955 size 126x111
