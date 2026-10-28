@@ -1,0 +1,51 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=spinner-overlay at 1245,0 size 2309x0
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 3 of 3" at 223,69 size 228x66
+           id=click-hint-container at 2340,540 size 119x1080
+           id=panel-container at 2400,955 size 0x249
+           "GoTyme Bank ZA
+(TymeBank)" at 2400,442 size 0x207
+           "Send Up to R5 000 for Free" at 2400,589 size 0x51
+           "Send up to R5 000 for free with Instant Payments in…" at 2400,637 size 0x51
+           "4.8" at 2400,712 size 0x57
+           "70 thousand" at 2400,766 size 0x51
+[tappable] (said as: Install) at 2400,958 size 0x111
+           "Grok Bot" at 1711,223 size 924x105
+           "SpaceX Super Intelligence" at 1711,358 size 924x51
+[tappable] (said as: Install) at 1595,496 size 693x111
+           "Meet Grok Bot" at 1490,640 size 1365x51
+           "SI Teammates That Get Work Done. Download the Grok Bot app today." at 1490,697 size 1365x51
+           "4.5" at 838,814 size 60x57
+           "10 thousand" at 908,868 size 201x51
+           "3 million" at 1180,868 size 132x51
+           "You will be taken to the website after the ad" at 2400,766 size 0x153
+           id=panel-layer1 at 2400,1080 size 0x0
+           id=panel-layer2 at 2400,955 size 0x249
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,958 size 0x111
+           id=click-hint-container at 395,540 size 609x1080
+           "Install" id=install-button at 1631,496 size 765x111
+           "Temu" at 2400,1080 size 0x0
+           "4.5" at 2400,1080 size 0x0
+           id=install-button-place-holder at 2400,1080 size 0x0
+           id=expansion-button at 2400,957 size 0x90
+[tappable] (said as: Install) id=install-button at 2400,955 size 0x111
+           "You will be taken to the website after the
+ad" at 2396,955 size 8x207
+           "You will be taken
+to the website
+after the ad" at 395,928 size 411x261
+           "Install" at 2400,1080 size 0x0
+           "Install" at 2400,955 size 0x111
