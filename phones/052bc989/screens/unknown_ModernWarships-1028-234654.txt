@@ -1,0 +1,7 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=root at 1185,540 size 2189x1080
+[tappable] (said as: Privacy) at 139,1032 size 72x72
+           id=adc-backdrop at 1185,540 size 2189x1080
+[tappable] "select to enable accessibility for this content" at 91,0 size 0x0
