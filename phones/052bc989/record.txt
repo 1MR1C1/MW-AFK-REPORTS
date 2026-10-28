@@ -1,0 +1,29 @@
+10-28 22:49:05  
+10-28 22:49:05  === session started ===
+10-28 22:49:05  app 3.8  (build 30)
+10-28 22:49:05  game 0.109.0.120516500
+10-28 22:49:05  calibrated for 2400x1080, 46 rules
+10-28 22:49:05  install 052bc989
+10-28 22:49:05  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
+10-28 22:49:05  screen 1080x2400, 480dpi, 60Hz
+10-28 22:49:05  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
+10-28 22:49:39  stalled 29s on a screen from com.google.android.gms, recovered into menu_back
+10-28 22:49:54  stalled 5s on a screen from com.google.android.gms, recovered into loading
+10-28 22:54:33  
+10-28 22:54:33  === session started ===
+10-28 22:54:33  app 3.8  (build 30)
+10-28 22:54:33  game 0.109.0.120516500
+10-28 22:54:33  calibrated for 2400x1080, 46 rules
+10-28 22:54:33  install 052bc989
+10-28 22:54:33  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
+10-28 22:54:33  screen 1080x2400, 480dpi, 60Hz
+10-28 22:54:33  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
+10-28 22:56:57  
+10-28 22:56:57  === session started ===
+10-28 22:56:57  app 3.8  (build 30)
+10-28 22:56:57  game 0.109.0.120516500
+10-28 22:56:57  calibrated for 2400x1080, 46 rules
+10-28 22:56:57  install 052bc989
+10-28 22:56:57  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
+10-28 22:56:57  screen 2400x1080, 480dpi, 60Hz
+10-28 22:56:57  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
