@@ -90,3 +90,6 @@
 10-28 23:50:40  stalled 10s on an unrecognised game screen, recovered into heal_low_hp
 10-28 23:51:40  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
 10-29 00:03:52  stalled 6s on a screen from cn.nubia.launcher, recovered into loading
+10-29 00:08:50  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-29 00:11:34  stalled 164s on a screen from cn.nubia.entertainmenttoolbox, recovered into in_battle
+10-29 00:18:06  === session stopped: 2 battles, 0 reward videos, 3 ad screens closed ===
