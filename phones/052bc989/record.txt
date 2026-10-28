@@ -93,3 +93,12 @@
 10-29 00:08:50  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
 10-29 00:11:34  stalled 164s on a screen from cn.nubia.entertainmenttoolbox, recovered into in_battle
 10-29 00:18:06  === session stopped: 2 battles, 0 reward videos, 3 ad screens closed ===
+10-29 00:22:26  
+10-29 00:22:26  === session started ===
+10-29 00:22:26  app 4.1  (build 33)
+10-29 00:22:26  game 0.109.0.120516500
+10-29 00:22:26  calibrated for 2400x1080, 48 rules
+10-29 00:22:26  install 052bc989
+10-29 00:22:26  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
+10-29 00:22:26  screen 1080x2400, 480dpi, 60Hz
+10-29 00:22:26  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
