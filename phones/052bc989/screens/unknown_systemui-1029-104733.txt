@@ -1,0 +1,43 @@
+window package: com.android.systemui
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] "Thu, 29 Oct" at 889,173 size 214x57
+[tappable] (said as: Open settings.) at 1791,162 size 90x90
+[tappable] "Manage" at 718,1352 size 273x-544
+           "10:47" at 645,174 size 114x59
+           "AM" at 734,176 size 65x56
+           "10:47 am" at 540,72 size 0x144
+           "17%" at 1747,72 size 62x144
+           (said as: Page 1 of 2) at 1200,736 size 60x15
+           "USB debugging connected" at 915,1076 size 529x7
+           "Tap to turn off USB debugging" at 1234,1105 size 1167x-50
+[tappable] (said as: Collapse) at 1800,1023 size 120x72
+           "VodaCom-SA" at 664,72 size 200x44
+           "MTNSA" at 843,72 size 117x44
+[tappable] (said as: USB Tether) at 693,343 size 247x195
+[tappable] "Off" (said as: NFC) at 946,343 size 247x195
+[tappable] "Off" at 1199,343 size 247x195
+[tappable] "Off" (said as: Wi-Fi,) at 1452,343 size 247x195
+[tappable] "Off" (said as: Bluetooth) at 946,577 size 247x195
+[tappable] (said as: Auto-rotate screen) at 1199,577 size 247x195
+[tappable] (said as: Mobile hotspot turned off.) at 1452,577 size 247x195
+[tappable] "Off" (said as: Location) at 1705,577 size 247x195
+[tappable] "Off" at 1875,577 size -30x195
+           "Android System" at 769,1023 size 236x58
+           "USB Tether" at 693,414 size 189x48
+           "NFC" at 946,414 size 189x48
+           "Game Space" at 693,648 size 189x48
+           "Auto-rotate" at 1199,648 size 189x48
+           "Hotspots" at 1452,648 size 189x48
+           "Location" at 1705,648 size 189x48
+           "Record" at 1889,414 size -59x48
+           "Super Snap" at 2016,414 size -312x48
+           "Flashlight" at 2142,414 size -565x48
+           "Charge SEP" at 2269,414 size -818x48
+           "Redmagic Cast" at 2395,414 size -1071x48
+           "Quick Share" at 1889,648 size -59x48
+           "Custom" at 2016,648 size -312x48
+           "60Hz" at 1199,414 size 76x48
+           "Wi-Fi" at 1452,414 size 76x48
+           "Card 2" at 1705,414 size 97x48
+           "Bluetooth" at 946,648 size 154x48
