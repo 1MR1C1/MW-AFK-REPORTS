@@ -1,7 +1,7 @@
 Screens the macro could not recognise, most blocking first.
 A high count is where the time is going.
 
-    6 x  com.Shooter.ModernWarships - nothing readable
+    7 x  com.Shooter.ModernWarships - nothing readable
     1 x  com.google.android.gms - nothing readable
     1 x  cn.nubia.launcher - nothing readable
     1 x  com.Shooter.ModernWarships - nothing readable
