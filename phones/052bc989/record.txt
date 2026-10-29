@@ -354,3 +354,15 @@
 10-29 07:02:20  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
 10-29 07:02:48  stalled 16s on an unrecognised game screen, recovered into ad_play_card
 10-29 07:03:19  stalled 27s on an unrecognised game screen, recovered into ad_play_card
+10-29 07:04:21  stalled 58s on an unrecognised game screen, recovered into ad_play_card
+10-29 07:05:07  stalled 26s on an unrecognised game screen, recovered into ad_play_card
+10-29 07:05:42  stalled 7s on an unrecognised game screen, recovered into loading
+10-29 07:09:13  stalled 7s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 07:09:52  stalled 6s on an unrecognised game screen, recovered into loading
+10-29 07:12:27  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 07:13:19  stalled 42s on an unrecognised game screen, recovered into ad_play_card
+10-29 07:13:29  stalled 6s on an unrecognised game screen, recovered into ad_play_card
+10-29 07:14:02  stalled 29s on an unrecognised game screen, recovered into ad_play_card
+10-29 07:14:37  stalled 7s on an unrecognised game screen, recovered into loading
+10-29 07:20:17  stalled 8s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 07:20:59  stalled 8s on an unrecognised game screen, recovered into loading
