@@ -589,3 +589,23 @@
 10-29 22:55:52  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
 10-29 22:55:52  *** THE GAME WAS UPDATED since the last run: 0.109.0.120516500 -> 0.110.0.120516554
 10-29 22:55:52  *** if something stopped working, start here
+10-29 22:56:40  stalled 17s on an unrecognised game screen, recovered into ad_play_card
+10-29 22:57:13  stalled 29s on an unrecognised game screen, recovered into ad_play_card
+10-29 22:57:45  stalled 29s on an unrecognised game screen, recovered into ad_play_card
+10-29 22:58:06  stalled 7s on an unrecognised game screen, recovered into ad_play_card
+10-29 22:58:47  stalled 37s on an unrecognised game screen, recovered into ad_play_card
+10-29 22:59:04  stalled 14s on an unrecognised game screen, recovered into ad_reward_x_disc
+10-29 22:59:40  stalled 19s on an unrecognised game screen, recovered into ad_reward_granted
+10-29 23:00:02  stalled 8s on an unrecognised game screen, recovered into loading
+10-29 23:03:57  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-29 23:04:02  stalled 5s on a screen from cn.nubia.entertainmenttoolbox, recovered into mw_loading_server_lc
+10-29 23:04:16  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-29 23:04:36  stalled 17s on an unrecognised game screen, recovered into ad_play_card
+10-29 23:05:09  stalled 29s on an unrecognised game screen, recovered into ad_play_card
+10-29 23:05:24  stalled 12s on an unrecognised game screen, recovered into ad_reward_x_disc
+10-29 23:05:44  stalled 5s on an unrecognised game screen, recovered into loading
+10-29 23:09:56  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 23:10:20  stalled 10s on an unrecognised game screen, recovered into port_menu
+10-29 23:10:29  stalled 5s on an unrecognised game screen, recovered into loading
+10-29 23:14:24  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 23:14:49  stalled 6s on an unrecognised game screen, recovered into loading
