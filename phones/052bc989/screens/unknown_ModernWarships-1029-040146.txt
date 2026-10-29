@@ -1,0 +1,23 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 128,1030 size 75x99
+           "Reward in 4 seconds" at 2161,72 size 336x72
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 116,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=abgb at 116,1054 size 45x45
+           id=landscapeLVideoFigStyle at 1186,540 size 2190x1080
+[tappable] (said as: wall-system%3Fgad_source%3D5%26gad_campaignid%3D24270274767&label=video_click_to_advertiser_site&ctype=110) at 419,295 size 495x255
+[tappable] (said as: Learn More) at 1514,967 size 921x111
+[tappable] (said as: The Gypsum Robust Boards) at 403,652 size 462x303
+[tappable] (said as: gyproc.co.za) at 286,832 size 228x57
+[tappable] (said as: wall-system%3Fgad_source%3D5%26gad_campaignid%3D24270274767&label=video_click_to_advertiser_site&ctype=110) at 395,909 size 447x0
+           "Learn More" at 1514,967 size 267x99
+           "The Gypsum" at 403,555 size 462x108
+           "Robust" at 302,651 size 261x108
+           "Boards" at 302,750 size 261x108
+           "gyproc.co.za" at 286,832 size 228x57
