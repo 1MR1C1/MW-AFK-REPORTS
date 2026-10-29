@@ -1,0 +1,21 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 128,1030 size 75x99
+           "Reward in 5 seconds" at 2161,72 size 336x72
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 116,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=abgb at 116,1054 size 45x45
+           id=landscapeLVideoFigStyle at 1186,540 size 2190x1080
+[tappable] (said as: %3Futm_source%3DGDV%26utm_medium%3DYTU%26utm_content%3DVID%26utm_campaign%3DInterim-Financial-Results%26utm_id%3DPER_FY27_CAB_MUL_MUL_BRA_AW_NAT_YTU_GDV_VID_Interim-Financial-Results%26dclid%3DCP-z4LK0p5cDFWNWhAYdWmYakg%26gad_source%3D7%26gad_campaignid%3D24302610958%26gad_source%3D5%26gad_campaignid%3D24322377063&label=video_click_to_advertiser_site&ctype=110) at 419,397 size 495x255
+[tappable] (said as: Learn More) at 1514,967 size 921x111
+[tappable] (said as: BankOnBetter) at 416,654 size 489x102
+[tappable] (said as: capitecbank.co.za) at 320,730 size 297x51
+[tappable] (said as: %3Futm_source%3DGDV%26utm_medium%3DYTU%26utm_content%3DVID%26utm_campaign%3DInterim-Financial-Results%26utm_id%3DPER_FY27_CAB_MUL_MUL_BRA_AW_NAT_YTU_GDV_VID_Interim-Financial-Results%26dclid%3DCP-z4LK0p5cDFWNWhAYdWmYakg%26gad_source%3D7%26gad_campaignid%3D24302610958%26gad_source%3D5%26gad_campaignid%3D24322377063&label=video_click_to_advertiser_site&ctype=110) at 395,807 size 447x0
+           "Learn More" at 1514,967 size 267x99
+           "BankOnBetter" at 416,654 size 489x102
+           "capitecbank.co.za" at 320,730 size 297x51
