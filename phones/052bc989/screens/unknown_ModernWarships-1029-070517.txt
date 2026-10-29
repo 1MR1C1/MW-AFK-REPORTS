@@ -1,0 +1,11 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=root at 1185,540 size 2189x1080
+           (said as: Plіnkо Drop) at 365,454 size 171x171
+           "Plіnkо Drop" at 856,453 size 660x72
+[tappable] (said as: Privacy) at 139,1032 size 72x72
+           "4.5" at 341,616 size 87x69
+           "Price" at 688,598 size 330x33
+           "FREE" at 688,652 size 330x81
+[tappable] "Install" at 1531,798 size 726x126
