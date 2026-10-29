@@ -515,3 +515,20 @@
 10-29 10:03:14  skipped a screenshot: cn.nubia.launcher is not the game or an advert
 10-29 10:04:33  stalled 79s on a screen from cn.nubia.launcher, recovered into quit_dialog
 10-29 10:04:41  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 10:06:01  stalled 79s on a screen from cn.nubia.launcher, recovered into quit_dialog
+10-29 10:06:09  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 10:06:33  stalled 23s on a screen from cn.nubia.launcher, recovered into port_menu
+10-29 10:07:20  stalled 7s on a screen from cn.nubia.supersnap, recovered into loading
+10-29 10:12:38  stalled 15s on an unrecognised game screen, recovered into ad_play_card
+10-29 10:13:11  stalled 29s on an unrecognised game screen, recovered into ad_play_card
+10-29 10:13:28  stalled 14s on an unrecognised game screen, recovered into ad_reward_x_disc
+10-29 10:13:52  stalled 5s on an unrecognised game screen, recovered into loading
+10-29 10:16:41  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 10:17:13  stalled 16s on an unrecognised game screen, recovered into ad_play_card
+10-29 10:17:33  stalled 17s on an unrecognised game screen, recovered into ad_play_card
+10-29 10:18:02  stalled 25s on an unrecognised game screen, recovered into ad_reward_x_disc
+10-29 10:18:22  stalled 6s on an unrecognised game screen, recovered into loading
+10-29 10:23:08  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 10:23:45  stalled 31s on an unrecognised game screen, recovered into ad_play_card
+10-29 10:24:04  stalled 16s on an unrecognised game screen, recovered into ad_play_card
+10-29 10:24:22  stalled 14s on an unrecognised game screen, recovered into ad_play_card
