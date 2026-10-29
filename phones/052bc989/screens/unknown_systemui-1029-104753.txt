@@ -1,0 +1,20 @@
+window package: com.android.systemui
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] "Thu, 29 Oct" at 889,173 size 214x57
+[tappable] (said as: Open settings.) at 1791,162 size 90x90
+[tappable] "Manage" at 718,1041 size 273x78
+           "10:47" at 645,174 size 114x59
+           "AM" at 734,176 size 65x56
+           "10:47 am" at 540,72 size 0x144
+           "16%" at 1747,72 size 62x144
+[tappable] (said as: USB Tether) at 649,313 size 135x135
+[tappable] "Off" (said as: NFC) at 869,313 size 135x135
+[tappable] "Off" at 1089,313 size 135x135
+[tappable] "Off" (said as: Wi-Fi,) at 1309,313 size 135x135
+[tappable] (said as: Expand) at 1800,699 size 120x72
+[tappable] (said as: Expand) at 1800,864 size 120x72
+           "VodaCom-SA" at 664,72 size 200x44
+           "MTNSA" at 843,72 size 117x44
+           "MW AFK is displaying over other apps" at 1037,698 size 756x77
+           "Mobile Hotspot Enabled (MR C)" at 973,863 size 629x77
