@@ -1,0 +1,10 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=root at 1185,540 size 2189x1080
+           "Plinko Game" at 1448,280 size 411x87
+           "Price" at 1982,609 size 69x36
+           "FREE" at 2015,661 size 135x75
+[tappable] "Install" at 1709,808 size 687x153
+           "8a1fae4d11911bf9c11f059436a94168eb6c5f5fc38f411cf6576ee5fd209cb2" at 631,540 size 966x966
+[tappable] (said as: Privacy) at 1298,985 size 45x69
