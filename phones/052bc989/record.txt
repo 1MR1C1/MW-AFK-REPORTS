@@ -222,3 +222,12 @@
 10-29 03:21:19  stalled 37s on an unrecognised game screen, recovered into ad_play_card
 10-29 03:21:52  stalled 29s on an unrecognised game screen, recovered into ad_play_card
 10-29 03:22:19  stalled 6s on an unrecognised game screen, recovered into loading
+10-29 03:29:48  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 03:30:20  stalled 5s on an unrecognised game screen, recovered into loading
+10-29 03:33:51  stalled 7s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 03:34:21  stalled 24s on an unrecognised game screen, recovered into ad_play_card
+10-29 03:34:39  stalled 15s on an unrecognised game screen, recovered into ad_play_card
+10-29 03:35:13  stalled 30s on an unrecognised game screen, recovered into ad_play_card
+10-29 03:35:41  stalled 5s on a screen from com.android.vending, recovered into loading
+10-29 03:39:45  stalled 7s on a screen from com.android.vending, recovered into mw_loading_server_lc
+10-29 03:40:20  stalled 9s on a screen from com.android.vending, recovered into loading
