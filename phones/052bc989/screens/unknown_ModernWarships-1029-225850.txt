@@ -1,0 +1,53 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=spinner-overlay at 1245,0 size 2309x0
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 3 of 3" at 223,69 size 228x66
+           "Bolt" at 2400,217 size 0x105
+           "Bolt Technology" at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "Get a ride in a few taps, 24/7" at 2400,628 size 0x51
+           "Get picked up in minutes or schedule a ride up to 90 days ahead. Install the Bolt app…" at 2400,685 size 0x51
+           "4.8" at 2400,804 size 0x72
+           "10 million" at 2400,873 size 0x66
+           "100 million" at 2400,873 size 0x66
+           "Tiles Survive!" at 2400,217 size 0x105
+           "FunPlus International AG" at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "Build .Fight.Survive." at 2400,628 size 0x51
+           "Download now and begin your epic adventure!" at 2400,685 size 0x51
+           "4.4" at 2400,804 size 0x72
+           "300 thousand" at 2400,873 size 0x66
+           "20 million" at 2400,873 size 0x66
+           id=click-hint-container at 1186,540 size 2190x1080
+           id=panel-container at 1186,955 size 1350x249
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           "You will be taken to the website after the ad" at 1186,766 size 918x153
+           id=panel-layer1 at 1186,955 size 1542x249
+           id=panel-layer2 at 1186,955 size 1542x249
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "Temu" at 1109,919 size 897x105
+           "4.5" at 700,1006 size 78x75
+           id=install-button-place-holder at 1757,955 size 309x111
+           id=expansion-button at 569,1080 size 87x0
+[tappable] (said as: Install) id=install-button at 1757,955 size 309x111
+           "Install" at 1756,955 size 126x111
+           "Install" at 1756,955 size 126x111
