@@ -1,0 +1,61 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 1 of 3" at 221,69 size 225x66
+           id=click-hint-container at 1186,540 size 2190x1080
+           id=panel-container at 1186,955 size 1350x249
+           "SHEIN" at 2400,217 size 0x105
+[tappable] (said as: INSTALL) at 2400,931 size 0x129
+           "Tiles Survive!" at 2400,214 size 0x105
+           "FunPlus International AG" at 2400,349 size 0x57
+[tappable] (said as: Install) at 2400,487 size 0x111
+           "Explore More, Build Smarter" at 2400,625 size 0x57
+           "Give each survivor a job and turn effort into progress.Play Now" at 2400,691 size 0x57
+           "4.4" at 2400,810 size 0x72
+           "300 thousand" at 2400,879 size 0x66
+           "20 million" at 2400,879 size 0x66
+[tappable] (said as: d%3Fid%3Dcom.einnovation.temu%26inline%3Dtrue%26enifd%3DABT2UUjv04WT0mz15kCtfoCwUs1xNBUNADgJ95kY14LFCLjkpuJzdtKrJfga40_Jnm1kAOULQ4adTkVB9350vdZjV5znsV6duZwBCjIa8SYclHUCe6tpryBFSEJUZzbFIhdQUg%26adGroupId%3Dc20d16dab102aa6b%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYASAAEgKNBfD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYASAAEgKNBfD_BwE%2526gbraid%253D0AAAAAo4mICH6l-5Eo64a_FOwyo5REWRU5%2526gad_source%253D5%2526gad_campaignid%253D24388769271%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgBIAASAo0F8P8HARihwJjxKCIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) id=cl6818929850 at 1186,540 size 1644x972
+           "You will be taken to the website after the ad" at 1186,766 size 918x153
+           id=panel-layer1 at 1186,1080 size 1542x0
+           id=panel-layer2 at 1186,955 size 1542x249
+           id=click-hint-container at 2340,540 size 119x1080
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.zzkko%26inline%3Dtrue%26enifd%3DABT2UUi2YL4Zv17RETif249muSujtbwtwfS7VihXLTLw-87ycDOH5wnb9IpXnh_ISM98_VELiXi0KLwR0Ay4OgRoD1EwentW06FI9T03J5zBMfnGAev25GI%26lft%3D1%26gclid%3DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMIzra21qfelwMVQU_2CB3zmzH3EAEYAiAAEgJo1PD_BwE%2526gbraid%253D0AAAAADOVYZipqKVT2j_qEIXREN-1mrl0v%2526gad_source%253D5%2526gad_campaignid%253D24179784399%26gref%3DEikQAhohChsKEwjOtrbWp96XAxVBT_YIHfObMfcQARgCIAASAmjU8P8HARiYw9WcAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+           "INSTALL" id=install-button at 2400,931 size 0x129
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,487 size 0x111
+           "Temu" at 1109,1080 size 897x0
+           "4.5" at 700,1080 size 78x0
+           id=install-button-place-holder at 1757,1080 size 309x0
+           id=expansion-button at 569,957 size 87x90
+[tappable] (said as: Install) id=install-button at 1757,955 size 309x111
+           "You will be taken to the website after the
+ad" at 2396,955 size 8x207
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "Install" at 1756,1080 size 126x0
+           "Install" at 1756,955 size 126x111
