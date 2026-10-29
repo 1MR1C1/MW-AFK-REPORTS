@@ -1,0 +1,52 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 3 of 3" at 223,69 size 228x66
+           "Doto" at 2400,217 size 0x105
+           "Doto" at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "Get your 50% bonus now" at 2400,628 size 0x51
+           "Your money grows by 50% the moment you deposit. Max. bonus is $5,000. Get the…" at 2400,685 size 0x51
+           "4.3" at 2400,804 size 0x72
+           "7 thousand" at 2400,873 size 0x66
+           "1 million" at 2400,873 size 0x66
+           id=click-hint-container at 2340,540 size 119x1080
+           id=panel-container at 2400,955 size 0x249
+           "Last Shelter" at 1711,217 size 924x105
+           "LAST ORIGIN STUDIO LIMITED" at 1711,352 size 924x51
+[tappable] (said as: Install) at 1595,490 size 693x111
+           "Play now for free!" at 1490,628 size 1365x51
+           "Enter the apocalypse: build, explore, battle zombies, and survive. Download now" at 1490,685 size 1365x51
+           "4.7" at 845,804 size 75x72
+           "20 thousand" at 944,873 size 273x66
+           "1 million" at 1283,873 size 171x66
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           "You will be taken to the website after the ad" at 2400,766 size 0x153
+           id=panel-layer1 at 2400,1080 size 0x0
+           id=panel-layer2 at 2400,955 size 0x249
+           id=click-hint-container at 395,540 size 609x1080
+           "Install" id=install-button at 1631,490 size 765x111
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "Temu" at 2400,1080 size 0x0
+           "4.5" at 2400,1080 size 0x0
+           id=install-button-place-holder at 2400,1080 size 0x0
+           id=expansion-button at 2400,957 size 0x90
+[tappable] (said as: Install) id=install-button at 2400,955 size 0x111
+           "You will be taken
+to the website
+after the ad" at 395,928 size 411x261
+           "Install" at 2400,1080 size 0x0
+           "Install" at 2400,955 size 0x111
