@@ -1,0 +1,41 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=spinner-overlay at 1245,0 size 2309x0
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 1 of 2" at 220,69 size 222x66
+           id=click-hint-container at 1186,540 size 2190x1080
+           id=panel-container at 1186,955 size 1350x249
+           "Doomsday" at 2400,214 size 0x105
+           "IGG.COM" at 2400,349 size 0x57
+[tappable] (said as: Install) at 2400,487 size 0x111
+           "Chaos World, Real Gameplay" at 2400,625 size 0x57
+           "Recruit SSR heroes and win with real strategy, not luck." at 2400,691 size 0x57
+           "4.6" at 2400,810 size 0x72
+           "2 million" at 2400,879 size 0x66
+           "100 million" at 2400,879 size 0x66
+[tappable] (said as: d%3Fid%3Dcom.einnovation.temu%26inline%3Dtrue%26enifd%3DABT2UUhBczhJ3_AB2lJJbgZK1Hi4fpPRh34_XDvUTZhjQZljCMhDBwvb8VPoKFzTb0EMPPy3ic2UTlpEpyJ5Fyt2KvMsXWzaSdb35rfpgz6dc9hLPBsj5pdAHt_KiqFaAayObw%26adGroupId%3D30cc37708e5e9131%26lft%3D1%26gclid%3DEAIaIQobChMInpHRorXelwMVQ0EdCR397jJuEAEYASAAEgKs3PD_BwE%26referrer%3Dgclid%253DEAIaIQobChMInpHRorXelwMVQ0EdCR397jJuEAEYASAAEgKs3PD_BwE%2526gbraid%253D0AAAAAo4mICFVQKh29lHF3D87qgH59E_Vq%2526gad_source%253D5%2526gad_campaignid%253D24389232919%26gref%3DEikQAhohChsKEwiekdGitd6XAxVDQR0JHf3uMm4QARgBIAASAqzc8P8HARihwJjxKCIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) id=cl6818929850 at 1186,540 size 1644x972
+           "You will be taken to the website after the ad" at 1186,766 size 918x153
+           id=panel-layer1 at 1186,1080 size 1542x0
+           id=panel-layer2 at 1186,955 size 1542x249
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,487 size 0x111
+           "Temu" at 1109,1080 size 897x0
+           "4.5" at 700,1080 size 78x0
+           id=install-button-place-holder at 1757,1080 size 309x0
+           id=expansion-button at 569,957 size 87x90
+[tappable] (said as: Install) id=install-button at 1757,955 size 309x111
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "Install" at 1756,1080 size 126x0
+           "Install" at 1756,955 size 126x111
