@@ -500,3 +500,18 @@
 10-29 09:45:50  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
 10-29 09:45:50  screen 2400x1080, 480dpi, 60Hz
 10-29 09:45:50  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
+10-29 09:46:11  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+10-29 09:46:46  stalled 6s on an unrecognised game screen, recovered into loading
+10-29 09:49:21  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 09:53:29  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 09:53:48  stalled 8s on an unrecognised game screen, recovered into ad_reward_granted
+10-29 09:54:18  stalled 5s on an unrecognised game screen, recovered into loading
+10-29 09:59:54  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 10:00:02  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 10:00:19  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 10:01:39  stalled 79s on a screen from cn.nubia.launcher, recovered into quit_dialog
+10-29 10:01:47  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 10:03:06  stalled 79s on a screen from cn.nubia.launcher, recovered into quit_dialog
+10-29 10:03:14  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 10:04:33  stalled 79s on a screen from cn.nubia.launcher, recovered into quit_dialog
+10-29 10:04:41  skipped a screenshot: cn.nubia.launcher is not the game or an advert
