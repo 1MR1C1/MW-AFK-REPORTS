@@ -1,0 +1,10 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=root at 1185,540 size 2189x1080
+[tappable] "Skip Open Store" at 340,84 size 306x72
+[tappable] "Unmuted" at 145,802 size 108x99
+[tappable] (said as: Privacy) at 145,898 size 108x99
+           (said as: Google Play) at 271,990 size 288x90
+           (said as: Royal Kingdom) at 1835,948 size 123x120
+[tappable] "Install Now" at 2087,948 size 339x120
