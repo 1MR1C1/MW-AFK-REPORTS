@@ -487,3 +487,16 @@
 10-29 09:42:35  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
 10-29 09:42:35  screen 2400x1080, 480dpi, 60Hz
 10-29 09:42:35  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
+10-29 09:43:12  stalled 31s on an unrecognised game screen, recovered into in_battle
+10-29 09:44:50  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 09:45:14  stalled 20s on an unrecognised game screen, recovered into ad_play_card
+10-29 09:45:32  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+10-29 09:45:50  
+10-29 09:45:50  === session started ===
+10-29 09:45:50  app 4.7  (build 39)
+10-29 09:45:50  game 0.109.0.120516500
+10-29 09:45:50  calibrated for 2400x1080, 45 rules
+10-29 09:45:50  install 052bc989
+10-29 09:45:50  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
+10-29 09:45:50  screen 2400x1080, 480dpi, 60Hz
+10-29 09:45:50  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
