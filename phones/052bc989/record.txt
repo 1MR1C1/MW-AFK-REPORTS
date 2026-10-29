@@ -623,3 +623,12 @@
 10-29 23:33:02  skipped a screenshot: cn.nubia.launcher is not the game or an advert
 10-29 23:33:20  skipped a screenshot: cn.nubia.launcher is not the game or an advert
 10-29 23:33:31  stalled 5s on a screen from cn.nubia.launcher, recovered into loading
+10-29 23:36:07  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 23:36:12  stalled 5s on a screen from cn.nubia.launcher, recovered into mw_loading_server_lc
+10-29 23:36:26  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 23:36:37  stalled 5s on a screen from cn.nubia.launcher, recovered into loading
+10-29 23:40:50  stalled 6s on a screen from cn.nubia.launcher, recovered into loading
+10-29 23:43:44  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 23:47:39  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 23:48:07  stalled 5s on a screen from cn.nubia.launcher, recovered into loading
+10-29 23:54:49  === session stopped: 12 battles, 4 reward videos, 10 ad screens closed ===
