@@ -1,0 +1,54 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 2 of 3" at 223,69 size 228x66
+           "Booking.com" at 2400,217 size 0x105
+           "Booking.com Hotels & Vacation Rentals" at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "Quédate en un sitio único" at 2400,628 size 0x51
+           "¿Casa rural o villa? Booking.com tiene opciones para todos los gustos" at 2400,685 size 0x51
+           "4.7" at 2400,804 size 0x72
+           "6 million" at 2400,873 size 0x66
+           "800 million" at 2400,873 size 0x66
+           "ClicFlyer-Weekly Deals,
+Coupon" at 1711,268 size 924x207
+           "ClicFlyer" at 1711,403 size 924x51
+[tappable] (said as: Install) at 1595,490 size 693x111
+           "Instant Alerts for Discounts" at 1490,628 size 1365x51
+           "Browse this week’s supermarket specials & catalogues in one app — save on food &…" at 1490,685 size 1365x51
+           "4.5" at 845,804 size 75x72
+           "20 thousand" at 944,873 size 273x66
+           "5 million" at 1286,873 size 177x66
+           "Temu" at 2400,217 size 0x105
+           "Temu" at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "Student & Pro Essentials" at 2400,628 size 0x51
+           "Stay productive on the move between campus, the office, and home." at 2400,685 size 0x51
+           "4.5" at 2400,804 size 0x72
+           "10 million" at 2400,873 size 0x66
+           "1 billion" at 2400,873 size 0x66
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           id=click-hint-container at 395,540 size 609x1080
+           "Install" id=install-button at 1631,490 size 765x111
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "You will be taken
+to the website
+after the ad" at 395,928 size 411x261
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
