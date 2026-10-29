@@ -609,3 +609,17 @@
 10-29 23:10:29  stalled 5s on an unrecognised game screen, recovered into loading
 10-29 23:14:24  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
 10-29 23:14:49  stalled 6s on an unrecognised game screen, recovered into loading
+10-29 23:20:35  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 23:20:40  stalled 5s on a screen from cn.nubia.launcher, recovered into mw_loading_server_lc
+10-29 23:20:50  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 23:21:05  stalled 5s on a screen from cn.nubia.launcher, recovered into loading
+10-29 23:24:56  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 23:25:11  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 23:25:22  stalled 5s on a screen from cn.nubia.launcher, recovered into loading
+10-29 23:28:39  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 23:28:44  stalled 5s on a screen from cn.nubia.launcher, recovered into mw_loading_server_lc
+10-29 23:28:54  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 23:29:06  stalled 5s on a screen from cn.nubia.launcher, recovered into loading
+10-29 23:33:02  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 23:33:20  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+10-29 23:33:31  stalled 5s on a screen from cn.nubia.launcher, recovered into loading
