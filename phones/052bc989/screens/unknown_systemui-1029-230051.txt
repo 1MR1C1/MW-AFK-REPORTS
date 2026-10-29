@@ -1,0 +1,7 @@
+window package: com.android.systemui
+class: android.widget.FrameLayout
+---- what is on it ----
+           "Emergency" at 646,696 size 288x57
+           "Lockdown" at 1006,696 size 288x57
+           "Power off" at 1366,696 size 288x57
+           "Restart" at 1726,696 size 288x57
