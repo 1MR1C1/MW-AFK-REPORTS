@@ -1,0 +1,10 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=root at 1185,540 size 2189x1080
+           "Plinko Easy Earn" at 1513,280 size 540x87
+           "Price" at 1982,609 size 69x36
+           "FREE" at 2015,661 size 135x75
+[tappable] "Install" at 1709,808 size 669x147
+           "083c4f9620175e64af1923b01f32bfcd987e1bfa6e83f5743c5b04a7e28cef04" at 631,540 size 966x966
+[tappable] (said as: Privacy) at 1298,985 size 45x69
