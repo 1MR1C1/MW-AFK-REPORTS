@@ -381,3 +381,13 @@
 10-29 07:38:56  stalled 29s on an unrecognised game screen, recovered into ad_play_card
 10-29 07:39:13  stalled 14s on an unrecognised game screen, recovered into ad_play_card
 10-29 07:39:48  stalled 7s on an unrecognised game screen, recovered into loading
+10-29 07:46:21  stalled 8s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 07:47:00  stalled 7s on an unrecognised game screen, recovered into loading
+10-29 07:51:27  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-29 07:51:54  stalled 17s on an unrecognised game screen, recovered into ad_play_card
+10-29 07:52:17  stalled 19s on an unrecognised game screen, recovered into ad_play_card
+10-29 07:52:50  stalled 30s on an unrecognised game screen, recovered into ad_play_card
+10-29 07:53:23  stalled 7s on an unrecognised game screen, recovered into loading
+10-29 07:58:25  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-29 07:58:46  stalled 20s on a screen from cn.nubia.entertainmenttoolbox, recovered into results_increase_reward
+10-29 07:59:06  === session stopped: 76 battles, 19 reward videos, 150 ad screens closed ===
