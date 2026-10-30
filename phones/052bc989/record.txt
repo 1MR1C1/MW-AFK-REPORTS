@@ -822,3 +822,30 @@
 10-30 16:15:06  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
 10-30 16:16:25  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
 10-30 16:16:28  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:17:47  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:19:09  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:19:12  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:20:32  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:20:34  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:21:54  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:21:56  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:23:16  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:23:18  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:24:38  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:24:41  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:26:00  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:26:03  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:27:22  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:27:25  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:28:44  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:28:47  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:30:06  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:30:09  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:31:28  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:31:31  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:32:51  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:32:53  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:34:13  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:34:15  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:35:35  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:35:38  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
