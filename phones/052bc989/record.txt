@@ -952,3 +952,16 @@
 10-30 19:08:36  stalled 7s on an unrecognised game screen, recovered into loading
 10-30 19:11:32  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
 10-30 19:12:10  stalled 6s on an unrecognised game screen, recovered into loading
+10-30 19:17:44  stalled 5s on an unrecognised game screen, recovered into ad_reward_granted
+10-30 19:18:25  stalled 32s on an unrecognised game screen, recovered into ad_play_card
+10-30 19:18:43  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+10-30 19:19:07  stalled 20s on an unrecognised game screen, recovered into ad_play_card
+10-30 19:19:29  stalled 7s on an unrecognised game screen, recovered into loading
+10-30 19:24:29  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 19:24:58  stalled 7s on an unrecognised game screen, recovered into loading
+10-30 19:28:14  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 19:28:46  stalled 7s on an unrecognised game screen, recovered into loading
+10-30 19:35:51  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 19:35:57  stalled 6s on a screen from cn.nubia.entertainmenttoolbox, recovered into mw_loading_server_lc
+10-30 19:36:44  stalled 29s on an unrecognised game screen, recovered into ad_reward_granted
+10-30 19:37:02  stalled 6s on an unrecognised game screen, recovered into loading
