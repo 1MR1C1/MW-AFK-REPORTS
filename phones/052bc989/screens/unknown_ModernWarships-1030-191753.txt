@@ -1,0 +1,57 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 1 of 3" at 221,69 size 225x66
+           id=click-hint-container at 1186,540 size 2190x1080
+           id=panel-container at 1186,955 size 1350x249
+           "Grok Bot" at 2400,217 size 0x105
+           "SpaceX Super Intelligence" at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "Works Inside the Apps You Use" at 2400,628 size 0x51
+           "Grok Bots work inside your apps on their own computer, and come back with…" at 2400,685 size 0x51
+           "4.5" at 2400,804 size 0x72
+           "10 thousand" at 2400,873 size 0x66
+           "3 million" at 2400,873 size 0x66
+           "Booking.com" at 2400,217 size 0x105
+[tappable] (said as: INSTALL) at 2400,931 size 0x129
+           "You will be taken to the website after the ad" at 1186,766 size 918x153
+           id=panel-layer1 at 1186,1080 size 1542x0
+           id=panel-layer2 at 1186,955 size 1542x249
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           id=click-hint-container at 2340,540 size 119x1080
+[tappable] (said as: d%3Fid%3Dcom.booking%26inline%3Dtrue%26enifd%3DABT2UUiFaZit-eQUOwVMsA0i8l6FbMEzBr6t3ZhHQSdBEWD6ruzbU7veWDPmp__fu-IKT6-iOdsEHv7H6J3nPedLcMAE1E4ltittZWl1oTCUlpXBMKzMJk0Nzg%26lft%3D1%26gclid%3DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%2526gbraid%253D0AAAAADtP3w9CkkZrKSonZXS-bB1eym3sj%2526gad_source%253D5%2526gad_campaignid%253D24406951418%26gref%3DEikQAhohChsKEwi0w7-mnuKXAxVZCoAAHc3RL-wQARgDIAASAhaH8P8HARiPvr_aAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.booking%26inline%3Dtrue%26enifd%3DABT2UUiFaZit-eQUOwVMsA0i8l6FbMEzBr6t3ZhHQSdBEWD6ruzbU7veWDPmp__fu-IKT6-iOdsEHv7H6J3nPedLcMAE1E4ltittZWl1oTCUlpXBMKzMJk0Nzg%26lft%3D1%26gclid%3DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%2526gbraid%253D0AAAAADtP3w9CkkZrKSonZXS-bB1eym3sj%2526gad_source%253D5%2526gad_campaignid%253D24406951418%26gref%3DEikQAhohChsKEwi0w7-mnuKXAxVZCoAAHc3RL-wQARgDIAASAhaH8P8HARiPvr_aAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.booking%26inline%3Dtrue%26enifd%3DABT2UUiFaZit-eQUOwVMsA0i8l6FbMEzBr6t3ZhHQSdBEWD6ruzbU7veWDPmp__fu-IKT6-iOdsEHv7H6J3nPedLcMAE1E4ltittZWl1oTCUlpXBMKzMJk0Nzg%26lft%3D1%26gclid%3DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%2526gbraid%253D0AAAAADtP3w9CkkZrKSonZXS-bB1eym3sj%2526gad_source%253D5%2526gad_campaignid%253D24406951418%26gref%3DEikQAhohChsKEwi0w7-mnuKXAxVZCoAAHc3RL-wQARgDIAASAhaH8P8HARiPvr_aAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.booking%26inline%3Dtrue%26enifd%3DABT2UUiFaZit-eQUOwVMsA0i8l6FbMEzBr6t3ZhHQSdBEWD6ruzbU7veWDPmp__fu-IKT6-iOdsEHv7H6J3nPedLcMAE1E4ltittZWl1oTCUlpXBMKzMJk0Nzg%26lft%3D1%26gclid%3DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%2526gbraid%253D0AAAAADtP3w9CkkZrKSonZXS-bB1eym3sj%2526gad_source%253D5%2526gad_campaignid%253D24406951418%26gref%3DEikQAhohChsKEwi0w7-mnuKXAxVZCoAAHc3RL-wQARgDIAASAhaH8P8HARiPvr_aAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.booking%26inline%3Dtrue%26enifd%3DABT2UUiFaZit-eQUOwVMsA0i8l6FbMEzBr6t3ZhHQSdBEWD6ruzbU7veWDPmp__fu-IKT6-iOdsEHv7H6J3nPedLcMAE1E4ltittZWl1oTCUlpXBMKzMJk0Nzg%26lft%3D1%26gclid%3DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%2526gbraid%253D0AAAAADtP3w9CkkZrKSonZXS-bB1eym3sj%2526gad_source%253D5%2526gad_campaignid%253D24406951418%26gref%3DEikQAhohChsKEwi0w7-mnuKXAxVZCoAAHc3RL-wQARgDIAASAhaH8P8HARiPvr_aAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.booking%26inline%3Dtrue%26enifd%3DABT2UUiFaZit-eQUOwVMsA0i8l6FbMEzBr6t3ZhHQSdBEWD6ruzbU7veWDPmp__fu-IKT6-iOdsEHv7H6J3nPedLcMAE1E4ltittZWl1oTCUlpXBMKzMJk0Nzg%26lft%3D1%26gclid%3DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%2526gbraid%253D0AAAAADtP3w9CkkZrKSonZXS-bB1eym3sj%2526gad_source%253D5%2526gad_campaignid%253D24406951418%26gref%3DEikQAhohChsKEwi0w7-mnuKXAxVZCoAAHc3RL-wQARgDIAASAhaH8P8HARiPvr_aAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.booking%26inline%3Dtrue%26enifd%3DABT2UUiFaZit-eQUOwVMsA0i8l6FbMEzBr6t3ZhHQSdBEWD6ruzbU7veWDPmp__fu-IKT6-iOdsEHv7H6J3nPedLcMAE1E4ltittZWl1oTCUlpXBMKzMJk0Nzg%26lft%3D1%26gclid%3DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%2526gbraid%253D0AAAAADtP3w9CkkZrKSonZXS-bB1eym3sj%2526gad_source%253D5%2526gad_campaignid%253D24406951418%26gref%3DEikQAhohChsKEwi0w7-mnuKXAxVZCoAAHc3RL-wQARgDIAASAhaH8P8HARiPvr_aAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.booking%26inline%3Dtrue%26enifd%3DABT2UUiFaZit-eQUOwVMsA0i8l6FbMEzBr6t3ZhHQSdBEWD6ruzbU7veWDPmp__fu-IKT6-iOdsEHv7H6J3nPedLcMAE1E4ltittZWl1oTCUlpXBMKzMJk0Nzg%26lft%3D1%26gclid%3DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%2526gbraid%253D0AAAAADtP3w9CkkZrKSonZXS-bB1eym3sj%2526gad_source%253D5%2526gad_campaignid%253D24406951418%26gref%3DEikQAhohChsKEwi0w7-mnuKXAxVZCoAAHc3RL-wQARgDIAASAhaH8P8HARiPvr_aAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.booking%26inline%3Dtrue%26enifd%3DABT2UUiFaZit-eQUOwVMsA0i8l6FbMEzBr6t3ZhHQSdBEWD6ruzbU7veWDPmp__fu-IKT6-iOdsEHv7H6J3nPedLcMAE1E4ltittZWl1oTCUlpXBMKzMJk0Nzg%26lft%3D1%26gclid%3DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%2526gbraid%253D0AAAAADtP3w9CkkZrKSonZXS-bB1eym3sj%2526gad_source%253D5%2526gad_campaignid%253D24406951418%26gref%3DEikQAhohChsKEwi0w7-mnuKXAxVZCoAAHc3RL-wQARgDIAASAhaH8P8HARiPvr_aAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.booking%26inline%3Dtrue%26enifd%3DABT2UUiFaZit-eQUOwVMsA0i8l6FbMEzBr6t3ZhHQSdBEWD6ruzbU7veWDPmp__fu-IKT6-iOdsEHv7H6J3nPedLcMAE1E4ltittZWl1oTCUlpXBMKzMJk0Nzg%26lft%3D1%26gclid%3DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%2526gbraid%253D0AAAAADtP3w9CkkZrKSonZXS-bB1eym3sj%2526gad_source%253D5%2526gad_campaignid%253D24406951418%26gref%3DEikQAhohChsKEwi0w7-mnuKXAxVZCoAAHc3RL-wQARgDIAASAhaH8P8HARiPvr_aAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.booking%26inline%3Dtrue%26enifd%3DABT2UUiFaZit-eQUOwVMsA0i8l6FbMEzBr6t3ZhHQSdBEWD6ruzbU7veWDPmp__fu-IKT6-iOdsEHv7H6J3nPedLcMAE1E4ltittZWl1oTCUlpXBMKzMJk0Nzg%26lft%3D1%26gclid%3DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%2526gbraid%253D0AAAAADtP3w9CkkZrKSonZXS-bB1eym3sj%2526gad_source%253D5%2526gad_campaignid%253D24406951418%26gref%3DEikQAhohChsKEwi0w7-mnuKXAxVZCoAAHc3RL-wQARgDIAASAhaH8P8HARiPvr_aAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+[tappable] (said as: d%3Fid%3Dcom.booking%26inline%3Dtrue%26enifd%3DABT2UUiFaZit-eQUOwVMsA0i8l6FbMEzBr6t3ZhHQSdBEWD6ruzbU7veWDPmp__fu-IKT6-iOdsEHv7H6J3nPedLcMAE1E4ltittZWl1oTCUlpXBMKzMJk0Nzg%26lft%3D1%26gclid%3DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMItMO_pp7ilwMVWQqAAB3N0S_sEAEYAyAAEgIWh_D_BwE%2526gbraid%253D0AAAAADtP3w9CkkZrKSonZXS-bB1eym3sj%2526gad_source%253D5%2526gad_campaignid%253D24406951418%26gref%3DEikQAhohChsKEwi0w7-mnuKXAxVZCoAAHc3RL-wQARgDIAASAhaH8P8HARiPvr_aAyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 2400,618 size 0x282
+           "INSTALL" id=install-button at 2400,931 size 0x129
+           "Temu" at 1109,1080 size 897x0
+           "4.5" at 700,1080 size 78x0
+           id=install-button-place-holder at 1757,1080 size 309x0
+           id=expansion-button at 569,957 size 87x90
+[tappable] (said as: Install) id=install-button at 1757,955 size 309x111
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "You will be taken to the
+website after the ad" at 2387,955 size 26x207
+           "Install" at 1756,1080 size 126x0
+           "Install" at 1756,955 size 126x111
