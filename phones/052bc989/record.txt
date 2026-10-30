@@ -703,3 +703,17 @@
 10-30 12:38:09  stalled 16s on an unrecognised game screen, recovered into ad_reward_x_disc
 10-30 12:47:11  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
 10-30 12:47:35  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 12:47:53  stalled 17s on a screen from cn.nubia.entertainmenttoolbox, recovered into ad_play_card
+10-30 12:48:42  stalled 46s on an unrecognised game screen, recovered into ad_reward_x_disc
+10-30 12:50:18  stalled 85s on an unrecognised game screen, recovered into quit_dialog
+10-30 12:51:21  stalled 59s on an unrecognised game screen, recovered into quit_dialog
+10-30 12:52:32  stalled 68s on an unrecognised game screen, recovered into quit_dialog
+10-30 12:54:00  stalled 84s on an unrecognised game screen, recovered into quit_dialog
+10-30 12:55:12  stalled 68s on an unrecognised game screen, recovered into quit_dialog
+10-30 12:56:39  stalled 84s on an unrecognised game screen, recovered into quit_dialog
+10-30 12:57:52  stalled 69s on an unrecognised game screen, recovered into quit_dialog
+10-30 12:59:20  stalled 84s on an unrecognised game screen, recovered into quit_dialog
+10-30 13:00:43  stalled 79s on an unrecognised game screen, recovered into quit_dialog
+10-30 13:02:13  stalled 86s on an unrecognised game screen, recovered into quit_dialog
+10-30 13:03:10  stalled 53s on an unrecognised game screen, recovered into port_menu
+10-30 13:03:28  === session stopped: 22 battles, 9 reward videos, 27 ad screens closed ===
