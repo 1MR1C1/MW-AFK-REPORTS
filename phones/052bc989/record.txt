@@ -981,3 +981,11 @@
 10-30 20:08:13  stalled 7s on an unrecognised game screen, recovered into loading
 10-30 20:12:54  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
 10-30 20:13:30  stalled 7s on an unrecognised game screen, recovered into loading
+10-30 20:19:52  stalled 7s on a screen from com.android.systemui, recovered into mw_loading_server_lc
+10-30 20:20:24  stalled 7s on a screen from com.android.systemui, recovered into loading
+10-30 20:23:11  stalled 7s on a screen from com.android.systemui, recovered into mw_loading_server_lc
+10-30 20:24:01  stalled 7s on an unrecognised game screen, recovered into loading
+10-30 20:31:57  stalled 217s on a screen from com.android.systemui, recovered into results_return_port
+10-30 20:32:26  stalled 8s on a screen from android, recovered into loading
+10-30 20:35:28  stalled 6s on a screen from android, recovered into mw_loading_server_lc
+10-30 20:36:02  stalled 8s on a screen from android, recovered into loading
