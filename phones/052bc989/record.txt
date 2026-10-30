@@ -632,3 +632,12 @@
 10-29 23:47:39  skipped a screenshot: cn.nubia.launcher is not the game or an advert
 10-29 23:48:07  stalled 5s on a screen from cn.nubia.launcher, recovered into loading
 10-29 23:54:49  === session stopped: 12 battles, 4 reward videos, 10 ad screens closed ===
+10-30 10:23:19  
+10-30 10:23:19  === session started ===
+10-30 10:23:19  app 4.8  (build 40)
+10-30 10:23:19  game 0.110.0.120516554
+10-30 10:23:19  calibrated for 2400x1080, 45 rules
+10-30 10:23:19  install 052bc989
+10-30 10:23:19  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
+10-30 10:23:19  screen 1080x2400, 480dpi, 60Hz
+10-30 10:23:19  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
