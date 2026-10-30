@@ -878,3 +878,28 @@
 10-30 16:54:47  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
 10-30 16:56:07  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
 10-30 16:56:09  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:57:29  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:57:31  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 16:58:51  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 16:58:54  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 17:00:13  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 17:01:35  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 17:01:38  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 17:02:57  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 17:03:00  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 17:04:19  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 17:04:22  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 17:05:42  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 17:07:04  stalled 79s on a screen from cn.nubia.entertainmenttoolbox, recovered into quit_dialog
+10-30 17:07:07  skipped a screenshot: cn.nubia.entertainmenttoolbox is not the game or an advert
+10-30 17:07:57  stalled 50s on a screen from cn.nubia.entertainmenttoolbox, recovered into port_reward_1_dark
+10-30 17:08:20  stalled 16s on an unrecognised game screen, recovered into ad_play_card
+10-30 17:09:00  stalled 15s on an unrecognised game screen, recovered into ad_play_card
+10-30 17:09:34  stalled 29s on an unrecognised game screen, recovered into ad_play_card
+10-30 17:10:19  stalled 42s on an unrecognised game screen, recovered into ad_play_card
+10-30 17:10:40  stalled 7s on an unrecognised game screen, recovered into loading
+10-30 17:13:54  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 17:14:48  stalled 38s on an unrecognised game screen, recovered into ad_play_card
+10-30 17:15:02  stalled 10s on an unrecognised game screen, recovered into ad_play_card
+10-30 17:15:48  stalled 42s on an unrecognised game screen, recovered into ad_play_card
+10-30 17:16:09  stalled 6s on an unrecognised game screen, recovered into loading
