@@ -1,0 +1,11 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=root at 1185,540 size 2189x1080
+           "PrimeXBT — Trading Platform" at 1726,280 size 966x87
+           "9356" at 1276,678 size 66x36
+           "Price" at 1982,609 size 69x36
+           "FREE" at 2015,661 size 135x75
+[tappable] "Install" at 1709,808 size 657x147
+           "dcf55528a1b9804713932034fa22c7eb13905da874df1c1d8bb843e35de87beb" at 631,540 size 966x966
+[tappable] (said as: Privacy) at 1298,985 size 45x69
