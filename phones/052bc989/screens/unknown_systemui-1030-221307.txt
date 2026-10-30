@@ -1,0 +1,5 @@
+window package: com.android.systemui
+class: android.widget.FrameLayout
+---- what is on it ----
+           "Battery level is below 20%" at 1185,565 size 1044x57
+[tappable] "Knew" at 1185,678 size 816x144
