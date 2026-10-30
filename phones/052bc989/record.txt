@@ -679,3 +679,5 @@
 10-30 11:42:21  stalled 8s on an unrecognised game screen, recovered into loading
 10-30 11:42:42  stalled 18s on an unrecognised game screen, recovered into ad_play_card
 10-30 11:43:04  stalled 6s on an unrecognised game screen, recovered into loading
+10-30 11:47:30  skipped a screenshot: com.google.android.googlequicksearchbox is not the game or an advert
+10-30 11:47:43  stalled 13s on a screen from com.google.android.googlequicksearchbox, recovered into in_battle
