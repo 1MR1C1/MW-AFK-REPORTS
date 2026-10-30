@@ -1,0 +1,5 @@
+window package: com.android.systemui
+class: android.widget.FrameLayout
+---- what is on it ----
+           "The charging voltage is too high and charging has stopped. Please replace the charger and continue charging." at 1185,510 size 1044x155
+[tappable] "I see" at 1185,672 size 816x144
