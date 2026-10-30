@@ -1,0 +1,50 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=spinner-overlay at 1245,0 size 2309x0
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 1 of 3" at 221,69 size 225x66
+           "Amazon Shopping" at 1840,214 size 666x105
+           "Amazon Mobile LLC" at 1840,349 size 666x57
+[tappable] (said as: Install) at 1757,487 size 501x111
+           "Free delivery.Ts&Cs apply." at 1618,625 size 1110x57
+           "Get all your everyday essentials at the best prices." at 1618,691 size 1110x57
+           "4.4" at 1103,810 size 81x72
+           "4 million" at 1153,879 size 180x66
+           "1 billion" at 1439,879 size 159x66
+           id=click-hint-container at 2340,540 size 119x1080
+           id=panel-container at 2400,955 size 0x249
+           id=click-hint-container at 2340,540 size 119x1080
+           id=panel-container at 2400,955 size 0x249
+           id=click-hint-container at 523,540 size 864x1080
+           "Install" id=install-button at 1793,487 size 573x111
+           "You will be taken to the website after the ad" at 2400,766 size 0x153
+           id=panel-layer1 at 2400,955 size 0x249
+           id=panel-layer2 at 2400,955 size 0x249
+           "You will be taken to the website after the ad" at 2400,766 size 0x153
+           id=panel-layer1 at 2400,955 size 0x249
+           id=panel-layer2 at 2400,955 size 0x249
+           "You will be taken to the website
+after the ad" at 523,955 size 690x207
+           "Temu" at 2400,919 size 0x105
+           "4.5" at 2400,1006 size 0x75
+           id=install-button-place-holder at 2400,955 size 0x111
+           id=expansion-button at 2400,1080 size 0x0
+[tappable] (said as: Install) id=install-button at 2400,955 size 0x111
+           "Doomsday x Beauties" at 2400,921 size 0x102
+           id=install-button-place-holder at 2400,955 size 0x111
+           id=expansion-button at 2400,1080 size 0x0
+[tappable] (said as: Install) id=install-button at 2400,955 size 0x111
+           "Install" at 2400,955 size 0x111
+           "Install" at 2400,955 size 0x111
+           "Install" at 2400,955 size 0x111
+           "Install" at 2400,955 size 0x111
