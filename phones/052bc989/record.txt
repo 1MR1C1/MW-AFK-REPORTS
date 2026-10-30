@@ -1028,3 +1028,13 @@
 10-30 21:52:58  stalled 30s on an unrecognised game screen, recovered into ad_play_card
 10-30 21:54:06  stalled 64s on an unrecognised game screen, recovered into ad_play_card
 10-30 21:54:32  stalled 6s on an unrecognised game screen, recovered into loading
+10-30 21:59:19  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 21:59:56  stalled 12s on an unrecognised game screen, recovered into ad_play_card
+10-30 22:00:31  stalled 8s on an unrecognised game screen, recovered into loading
+10-30 22:06:22  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 22:06:53  stalled 7s on an unrecognised game screen, recovered into loading
+10-30 22:11:22  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 22:11:55  stalled 7s on an unrecognised game screen, recovered into loading
+10-30 22:13:24  stalled 17s on a screen from com.android.systemui, recovered into in_battle
+10-30 22:15:13  stalled 6s on a screen from com.android.systemui, recovered into mw_loading_server_lc
+10-30 22:15:52  stalled 9s on a screen from com.android.systemui, recovered into loading
