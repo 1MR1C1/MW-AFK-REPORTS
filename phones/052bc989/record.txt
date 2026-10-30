@@ -1000,3 +1000,10 @@
 10-30 20:50:40  stalled 7s on an unrecognised game screen, recovered into loading
 10-30 20:53:42  stalled 5s on a screen from cn.nubia.entertainmenttoolbox, recovered into mw_loading_server_lc
 10-30 20:54:28  stalled 8s on an unrecognised game screen, recovered into loading
+10-30 20:58:05  stalled 6s on an unrecognised game screen, recovered into loading
+10-30 21:05:34  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 21:06:04  stalled 7s on an unrecognised game screen, recovered into loading
+10-30 21:09:42  stalled 7s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 21:10:12  stalled 7s on an unrecognised game screen, recovered into loading
+10-30 21:15:21  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 21:15:52  stalled 7s on an unrecognised game screen, recovered into loading
