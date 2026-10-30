@@ -903,3 +903,9 @@
 10-30 17:15:02  stalled 10s on an unrecognised game screen, recovered into ad_play_card
 10-30 17:15:48  stalled 42s on an unrecognised game screen, recovered into ad_play_card
 10-30 17:16:09  stalled 6s on an unrecognised game screen, recovered into loading
+10-30 17:19:51  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 17:20:20  stalled 6s on an unrecognised game screen, recovered into loading
+10-30 17:24:06  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 17:24:34  stalled 5s on an unrecognised game screen, recovered into loading
+10-30 17:34:39  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 17:35:09  stalled 5s on an unrecognised game screen, recovered into loading
