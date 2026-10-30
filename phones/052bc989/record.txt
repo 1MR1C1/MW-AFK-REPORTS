@@ -641,3 +641,18 @@
 10-30 10:23:19  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
 10-30 10:23:19  screen 1080x2400, 480dpi, 60Hz
 10-30 10:23:19  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
+10-30 10:23:57  stalled 32s on a screen from com.google.android.gms, recovered into menu_back
+10-30 10:28:36  stalled 16s on an unrecognised game screen, recovered into ad_play_card
+10-30 10:29:10  stalled 30s on an unrecognised game screen, recovered into ad_play_card
+10-30 10:29:34  stalled 20s on an unrecognised game screen, recovered into ad_play_card
+10-30 10:30:05  stalled 17s on an unrecognised game screen, recovered into ad_play_card
+10-30 10:30:22  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+10-30 10:30:53  stalled 27s on an unrecognised game screen, recovered into ad_reward_x_disc
+10-30 10:31:38  stalled 31s on an unrecognised game screen, recovered into ad_play_card
+10-30 10:31:55  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+10-30 10:32:13  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+10-30 10:32:34  stalled 6s on an unrecognised game screen, recovered into loading
+10-30 10:40:06  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 10:40:49  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+10-30 10:41:18  stalled 26s on an unrecognised game screen, recovered into ad_reward_x_disc
+10-30 10:41:39  stalled 6s on an unrecognised game screen, recovered into loading
