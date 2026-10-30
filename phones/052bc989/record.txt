@@ -965,3 +965,13 @@
 10-30 19:35:57  stalled 6s on a screen from cn.nubia.entertainmenttoolbox, recovered into mw_loading_server_lc
 10-30 19:36:44  stalled 29s on an unrecognised game screen, recovered into ad_reward_granted
 10-30 19:37:02  stalled 6s on an unrecognised game screen, recovered into loading
+10-30 19:40:52  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 19:41:23  stalled 6s on an unrecognised game screen, recovered into loading
+10-30 19:44:14  stalled 7s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 19:44:47  stalled 6s on an unrecognised game screen, recovered into loading
+10-30 19:48:41  stalled 7s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 19:49:11  stalled 7s on an unrecognised game screen, recovered into loading
+10-30 19:52:12  stalled 7s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 19:52:42  stalled 7s on an unrecognised game screen, recovered into loading
+10-30 19:56:44  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 19:57:16  stalled 7s on an unrecognised game screen, recovered into loading
