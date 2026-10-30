@@ -1,0 +1,19 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 128,1030 size 75x99
+           "Reward in 5 seconds" at 2161,72 size 336x72
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 116,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=abgb at 116,1054 size 45x45
+           id=landscapeLVideoFigStyle at 1186,540 size 2190x1080
+[tappable] (said as: Learn More) at 1514,967 size 921x111
+[tappable] (said as: %3Fcsref%3Dvod:cid~20375502:pid~20524203:id~36378877-456000368-cm3-CM3:m~q5:a~phd:ca~Q5LAUNCH:ob~a:pu~DV36:mt~p:c~Infeed-Experience%26dclid%3DCP_xrseg5JYDFecZYwEdSSIaZg%26gad_source%3D7%26gad_campaignid%3D24211306751%26gad_source%3D5%26gad_campaignid%3D24237169376&label=video_click_to_advertiser_site&ctype=110) at 419,516 size 495x0
+[tappable] (said as: audi.co.za) at 298,559 size 252x75
+[tappable] (said as: %3Fcsref%3Dvod:cid~20375502:pid~20524203:id~36378877-456000368-cm3-CM3:m~q5:a~phd:ca~Q5LAUNCH:ob~a:pu~DV36:mt~p:c~Infeed-Experience%26dclid%3DCP_xrseg5JYDFecZYwEdSSIaZg%26gad_source%3D7%26gad_campaignid%3D24211306751%26gad_source%3D5%26gad_campaignid%3D24237169376&label=video_click_to_advertiser_site&ctype=110) at 395,645 size 447x0
+           "Learn More" at 1514,967 size 267x99
+           "audi.co.za" at 298,559 size 252x75
