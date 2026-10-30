@@ -777,3 +777,13 @@
 10-30 15:11:01  stalled 5s on an unrecognised game screen, recovered into loading
 10-30 15:14:40  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
 10-30 15:15:04  stalled 6s on an unrecognised game screen, recovered into loading
+10-30 15:19:53  stalled 5s on an unrecognised game screen, recovered into loading
+10-30 15:22:23  stalled 80s on an unrecognised game screen, recovered into heal_low_hp
+10-30 15:22:55  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 15:23:23  stalled 6s on an unrecognised game screen, recovered into loading
+10-30 15:26:53  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+10-30 15:27:23  stalled 16s on an unrecognised game screen, recovered into ad_play_card
+10-30 15:27:56  stalled 30s on an unrecognised game screen, recovered into ad_play_card
+10-30 15:28:14  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+10-30 15:28:36  stalled 5s on an unrecognised game screen, recovered into loading
+10-30 15:36:21  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
