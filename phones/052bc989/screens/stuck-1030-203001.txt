@@ -1,0 +1,5 @@
+window package: com.android.systemui
+class: android.widget.FrameLayout
+---- what is on it ----
+           "The temperature of the phone is too high and charging has stopped. Continue charging after the temperature returns to normal." at 1185,510 size 1044x155
+[tappable] "I see" at 1185,672 size 816x144
