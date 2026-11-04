@@ -1200,3 +1200,20 @@
 11-04 15:05:37  stalled 6s on an unrecognised game screen, recovered into loading
 11-04 15:09:19  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
 11-04 15:09:44  stalled 5s on an unrecognised game screen, recovered into loading
+11-04 15:13:11  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-04 15:13:32  stalled 16s on an unrecognised game screen, recovered into ad_play_card
+11-04 15:13:54  stalled 19s on an unrecognised game screen, recovered into ad_play_card
+11-04 15:14:14  stalled 16s on an unrecognised game screen, recovered into ad_play_card
+11-04 15:14:42  stalled 5s on an unrecognised game screen, recovered into loading
+11-04 15:19:51  stalled 61s on an unrecognised game screen, recovered into ad_play_card
+11-04 15:20:20  stalled 25s on an unrecognised game screen, recovered into items_added
+11-04 15:20:34  stalled 6s on an unrecognised game screen, recovered into loading
+11-04 15:23:44  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-04 15:24:11  stalled 5s on an unrecognised game screen, recovered into loading
+11-04 15:27:42  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-04 15:27:53  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-04 15:27:58  a browser opened (org.mozilla.firefox) - left it at once
+11-04 15:29:17  stalled 84s on a screen from com.facebook.katana, recovered into results_return_port
+11-04 15:29:24  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-04 15:29:55  stalled 31s on a screen from com.facebook.katana, recovered into results_return_port
+11-04 15:30:26  stalled 7s on an unrecognised game screen, recovered into loading
