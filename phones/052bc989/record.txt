@@ -1238,3 +1238,8 @@
 11-04 16:06:46  stalled 6s on an unrecognised game screen, recovered into ad_skip_arrow_tl_small
 11-04 16:08:19  stalled 5s on an unrecognised game screen, recovered into ad_close_x_tl
 11-04 16:08:52  stalled 6s on an unrecognised game screen, recovered into loading
+11-04 16:13:15  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-04 16:13:52  stalled 18s on an unrecognised game screen, recovered into ad_play_card
+11-04 16:14:06  stalled 10s on an unrecognised game screen, recovered into ad_play_card
+11-04 16:14:23  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+11-04 16:17:15  === session stopped: 19 battles, 7 reward videos, 114 ad screens closed ===
