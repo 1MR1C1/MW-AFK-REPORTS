@@ -1252,3 +1252,7 @@
 11-04 16:17:21  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
 11-04 16:17:21  screen 2400x1080, 480dpi, 60Hz
 11-04 16:17:21  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
+11-04 16:17:40  stalled 7s on an unrecognised game screen, recovered into loading
+11-04 16:20:04  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-04 16:21:37  stalled 73s on an unrecognised game screen, recovered into ad_play_card
+11-04 22:50:35  === session stopped: 1 battles, 0 reward videos, 1 ad screens closed ===
