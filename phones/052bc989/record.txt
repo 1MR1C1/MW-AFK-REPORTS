@@ -1136,3 +1136,32 @@
 11-04 13:55:46  stalled 80s on an unrecognised game screen, recovered into quit_dialog
 11-04 13:57:08  stalled 80s on an unrecognised game screen, recovered into quit_dialog
 11-04 13:57:41  === session stopped: 0 battles, 0 reward videos, 0 ad screens closed ===
+11-04 13:57:50  
+11-04 13:57:50  === session started ===
+11-04 13:57:50  app 4.9  (build 41)
+11-04 13:57:50  game 0.110.0.120516554
+11-04 13:57:50  calibrated for 2400x1080, 45 rules
+11-04 13:57:50  install 052bc989
+11-04 13:57:50  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
+11-04 13:57:50  screen 2400x1080, 480dpi, 60Hz
+11-04 13:57:50  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
+11-04 13:59:21  stalled 80s on an unrecognised game screen, recovered into battle_menu_continue
+11-04 14:00:43  stalled 79s on an unrecognised game screen, recovered into battle_menu_continue
+11-04 14:01:09  stalled 23s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-04 14:01:36  stalled 16s on an unrecognised game screen, recovered into ad_play_card
+11-04 14:02:00  stalled 20s on an unrecognised game screen, recovered into ad_play_card
+11-04 14:02:33  stalled 29s on an unrecognised game screen, recovered into ad_play_card
+11-04 14:04:11  stalled 79s on an unrecognised game screen, recovered into battle_menu_continue
+11-04 14:05:34  stalled 79s on an unrecognised game screen, recovered into battle_menu_continue
+11-04 14:06:56  stalled 79s on an unrecognised game screen, recovered into battle_menu_continue
+11-04 14:07:14  stalled 15s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-04 14:08:16  stalled 42s on an unrecognised game screen, recovered into in_battle
+11-04 14:10:22  
+11-04 14:10:22  === session started ===
+11-04 14:10:22  app 4.9  (build 41)
+11-04 14:10:22  game 0.110.0.120516554
+11-04 14:10:22  calibrated for 2400x1080, 45 rules
+11-04 14:10:22  install 052bc989
+11-04 14:10:22  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
+11-04 14:10:22  screen 2400x1080, 480dpi, 60Hz
+11-04 14:10:22  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
