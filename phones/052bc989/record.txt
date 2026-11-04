@@ -1089,3 +1089,12 @@
 10-31 00:00:09  stalled 8s on an unrecognised game screen, recovered into mw_loading_server_lc
 10-31 00:00:22  stalled 5s on an unrecognised game screen, recovered into results_return_port
 10-31 00:01:06  === session stopped: 106 battles, 26 reward videos, 74 ad screens closed ===
+11-04 12:27:28  
+11-04 12:27:28  === session started ===
+11-04 12:27:28  app 4.8  (build 40)
+11-04 12:27:28  game 0.110.0.120516554
+11-04 12:27:28  calibrated for 2400x1080, 45 rules
+11-04 12:27:28  install 052bc989
+11-04 12:27:28  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
+11-04 12:27:28  screen 1080x2400, 480dpi, 60Hz
+11-04 12:27:28  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
