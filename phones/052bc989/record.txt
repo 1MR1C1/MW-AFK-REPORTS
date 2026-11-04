@@ -1113,3 +1113,19 @@
 11-04 12:46:40  stalled 10s on an unrecognised game screen, recovered into ad_play_card
 11-04 12:47:14  stalled 30s on an unrecognised game screen, recovered into ad_play_card
 11-04 12:47:28  stalled 10s on an unrecognised game screen, recovered into ad_play_card
+11-04 12:47:54  stalled 5s on an unrecognised game screen, recovered into loading
+11-04 12:51:38  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-04 12:52:04  stalled 5s on an unrecognised game screen, recovered into loading
+11-04 12:55:08  stalled 15s on an unrecognised game screen, recovered into ad_play_card
+11-04 12:55:31  stalled 19s on an unrecognised game screen, recovered into ad_play_card
+11-04 12:55:52  stalled 18s on an unrecognised game screen, recovered into ad_reward_x_disc
+11-04 12:56:19  stalled 6s on an unrecognised game screen, recovered into loading
+11-04 13:50:39  
+11-04 13:50:39  === session started ===
+11-04 13:50:39  app 4.9  (build 41)
+11-04 13:50:39  game 0.110.0.120516554
+11-04 13:50:39  calibrated for 2400x1080, 45 rules
+11-04 13:50:39  install 052bc989
+11-04 13:50:39  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
+11-04 13:50:39  screen 2400x1080, 480dpi, 60Hz
+11-04 13:50:39  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
