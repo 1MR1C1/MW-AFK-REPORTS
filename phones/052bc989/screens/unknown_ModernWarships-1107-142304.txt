@@ -1,0 +1,52 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=spinner-overlay at 1245,0 size 2309x0
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           "Ad 2 of 3 • Reward in 31" at 2137,72 size 384x72
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 3 of 3" at 223,69 size 228x66
+           "Temu" at 2400,429 size 0x102
+           "Temu Deals" at 2400,525 size 0x48
+           "Unbeatable prices on quality products" at 2400,574 size 0x51
+           "4.5" at 2400,655 size 0x75
+           "10 million" at 2400,726 size 0x66
+           "1 billion" at 2400,723 size 0x66
+[tappable] (said as: Install) at 2400,931 size 0x111
+           "Booking.com" at 2400,217 size 0x105
+           "Booking.com Hotels & Vacation Rentals" at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "Travel the world" at 2400,628 size 0x51
+           "Maldives or Morrocco? Booking.com has the stay for you." at 2400,685 size 0x51
+           "4.7" at 2400,804 size 0x72
+           "6 million" at 2400,873 size 0x66
+           "800 million" at 2400,873 size 0x66
+           "Last Asylum" at 1711,217 size 924x105
+           "37GAMES GLOBAL" at 1711,352 size 924x51
+[tappable] (said as: Install) at 1595,490 size 693x111
+           "Craft Herbs & Expand Wards" at 1490,628 size 1365x51
+           "Build a clean refuge on plague lands! Purify areas and upgrade housing for all…" at 1490,685 size 1365x51
+           "4.7" at 845,804 size 75x72
+           "300 thousand" at 959,873 size 303x66
+           "20 million" at 1333,873 size 210x66
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,931 size 0x111
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           id=click-hint-container at 395,540 size 609x1080
+           "Install" id=install-button at 1631,490 size 765x111
+           "You will be taken to the website after the
+ad" at 2396,955 size 8x207
+           "You will be taken to the
+website after the ad" at 2387,955 size 26x207
+           "You will be taken
+to the website
+after the ad" at 395,928 size 411x261
