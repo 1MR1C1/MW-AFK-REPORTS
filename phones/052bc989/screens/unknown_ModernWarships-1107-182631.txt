@@ -1,0 +1,19 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 128,1030 size 75x99
+           "Reward in 3 seconds" at 2161,72 size 336x72
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 116,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=abgb at 116,1054 size 45x45
+           id=landscapeLVideoFigStyle at 1186,540 size 2190x1080
+[tappable] (said as: Learn More) at 1514,967 size 921x111
+[tappable] (said as: home-contents-insurance%26utm_source%3Dgoogle%26utm_medium%3Dvideo%26utm_campaign%3Dcategoryc_home_ads%26utm_content%3D%26utm_term%3D%26utm_location%3D9073761%26utm_match%3D%26utm_network%3Dvp%26utm_device%3Dm%26utm_model%3Dzte%252Bnx666j%26utm_placement%3Dmobileapp%253A%253A2-com.shooter) at 419,516 size 495x0
+[tappable] (said as: naked.insure) at 337,559 size 330x75
+[tappable] (said as: home-contents-insurance%26utm_source%3Dgoogle%26utm_medium%3Dvideo%26utm_campaign%3Dcategoryc_home_ads%26utm_content%3D%26utm_term%3D%26utm_location%3D9073761%26utm_match%3D%26utm_network%3Dvp%26utm_device%3Dm%26utm_model%3Dzte%252Bnx666j%26utm_placement%3Dmobileapp%253A%253A2-com.shooter) at 395,645 size 447x0
+           "Learn More" at 1514,967 size 267x99
+           "naked.insure" at 337,559 size 330x75
