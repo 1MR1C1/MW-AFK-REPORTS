@@ -1,0 +1,22 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 128,1030 size 75x99
+           "Reward in 19 seconds" at 2150,72 size 357x72
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 116,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=abgb at 116,1054 size 45x45
+           id=landscapeLVideoFigStyle at 1186,540 size 2190x1080
+[tappable] (said as: %3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D23597656983%26marketing_stream%3Dcampaign_beremarkable%26gad_source%3D5%26gad_campaignid%3D23597656983&label=video_click_to_advertiser_site&ctype=110) at 419,334 size 495x255
+[tappable] (said as: Learn More) at 1514,967 size 921x111
+[tappable] (said as: Be Remarkable) at 412,651 size 480x222
+[tappable] (said as: profmed.co.za) at 313,792 size 282x60
+[tappable] (said as: %3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D23597656983%26marketing_stream%3Dcampaign_beremarkable%26gad_source%3D5%26gad_campaignid%3D23597656983&label=video_click_to_advertiser_site&ctype=110) at 395,870 size 447x0
+           "Learn More" at 1514,967 size 267x99
+           "Be" at 224,598 size 105x117
+           "Remarkable" at 412,703 size 480x117
+           "profmed.co.za" at 313,792 size 282x60
