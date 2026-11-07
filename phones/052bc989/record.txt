@@ -1301,3 +1301,7 @@
 11-07 14:34:19  skipped a screenshot: com.facebook.katana is not the game or an advert
 11-07 14:35:40  stalled 81s on a screen from com.facebook.katana, recovered into mw_loading_server
 11-07 14:36:05  stalled 6s on a screen from com.facebook.katana, recovered into loading
+11-07 14:41:44  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-07 14:42:18  stalled 10s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:42:49  stalled 27s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:43:51  stalled 59s on an unrecognised game screen, recovered into ad_play_card
