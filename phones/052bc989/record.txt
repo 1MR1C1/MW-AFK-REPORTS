@@ -1517,3 +1517,11 @@
 11-07 20:47:54  stalled 21s on an unrecognised game screen, recovered into ad_play_card
 11-07 20:48:17  stalled 19s on an unrecognised game screen, recovered into ad_play_card
 11-07 20:48:46  stalled 7s on an unrecognised game screen, recovered into loading
+11-07 20:54:35  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-07 20:55:14  stalled 18s on an unrecognised game screen, recovered into ad_reward_granted
+11-07 20:55:44  stalled 8s on an unrecognised game screen, recovered into loading
+11-07 21:00:05  stalled 32s on an unrecognised game screen, recovered into ad_play_card
+11-07 21:00:23  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+11-07 21:00:52  stalled 25s on an unrecognised game screen, recovered into ad_play_card
+11-07 21:01:14  stalled 7s on an unrecognised game screen, recovered into loading
+11-07 21:04:42  stalled 7s on an unrecognised game screen, recovered into loading
