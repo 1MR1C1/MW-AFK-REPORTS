@@ -1476,3 +1476,15 @@
 11-07 19:46:53  stalled 14s on an unrecognised game screen, recovered into ad_play_card
 11-07 19:47:17  stalled 20s on an unrecognised game screen, recovered into ad_play_card
 11-07 19:47:46  stalled 6s on an unrecognised game screen, recovered into loading
+11-07 19:54:30  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-07 19:55:11  stalled 21s on an unrecognised game screen, recovered into ad_play_card
+11-07 19:55:29  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+11-07 19:55:52  stalled 20s on an unrecognised game screen, recovered into ad_play_card
+11-07 19:56:20  stalled 8s on a screen from com.android.vending, recovered into loading
+11-07 20:02:36  stalled 30s on an unrecognised game screen, recovered into ad_play_card
+11-07 20:03:00  stalled 20s on an unrecognised game screen, recovered into ad_play_card
+11-07 20:03:27  stalled 6s on an unrecognised game screen, recovered into loading
+11-07 20:07:26  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-07 20:08:07  stalled 20s on an unrecognised game screen, recovered into ad_play_card
+11-07 20:08:31  stalled 20s on an unrecognised game screen, recovered into ad_play_card
+11-07 20:09:00  stalled 6s on an unrecognised game screen, recovered into loading
