@@ -1,0 +1,19 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           "Reward in 1 second" at 2116,72 size 318x72
+[tappable] (said as: Close) at 2327,72 size 75x72
+           id=mys-content at 1186,540 size 2190x1080
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,12 size 2190x24
+[tappable] "help_outline_white_24dp_with_3px_trbl_padding" at 118,1053 size 54x54
+           id=default at 1186,540 size 2190x1080
+[tappable] id=video-box-0 at 1186,540 size 2190x1080
+           id=video-cta-0 at 1813,996 size 876x108
+           id=tappable-video-top at 979,93 size 1404x186
+           id=tappable-video-mid at 1186,633 size 1920x894
+           id=tappable-video-bottom at 1186,1080 size 2190x0
+           "Open" at 1813,996 size 876x108
