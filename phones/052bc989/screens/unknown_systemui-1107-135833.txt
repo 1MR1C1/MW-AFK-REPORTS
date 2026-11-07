@@ -1,0 +1,25 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] (said as: Interstitial close button) at 2295,105 size 210x210
+           id=adContainer at 1245,540 size 2309x1080
+           "Reward granted" at 2116,75 size 306x54
+           id=mys-wrapper at 668,603 size 1107x906
+           id=mys-wrapper at 1822,603 size 1110x906
+           id=mys-content at 668,603 size 1107x906
+           id=mys-content at 1822,603 size 1110x906
+           id=main at 668,603 size 1107x906
+           id=landscapeStyle at 1822,603 size 1110x906
+           "Temu" at 764,601 size 795x129
+           "4.5" at 397,685 size 60x45
+           "Lekker Deals On Temu" at 668,763 size 987x69
+           "Get your home ready for the jol. Find
+amazing deals on festive decor on Temu." at 668,864 size 987x138
+           "Install" at 668,964 size 135x63
+[tappable] (said as: black-friday%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D2487437_brand_seasonal_black_friday_specialoccasions_youtube_awareness_demo_device_total_food_ctv_tablet_demo_m_f_25_26oct2026%26utm_term%3Dvideo_reach_skippable_in_stream_bumper_shorts%26utm_content%3Dskippable_animation_1%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D2487437_brand_seasonal_black_friday_specialoccasions_youtube_awareness_demo_device_total_food_ctv_tablet_demo_m_f_25_26oct2026%26utm_term%3Dvideo_reach_skippable_in_stream_bumper_shorts%26utm_content%3Dskippable_animation_1%26gad_source%3D5%26gad_campaignid%3D24388173086&label=video_click_to_advertiser_site&ctype=110) at 1822,430 size 1110x561
+[tappable] (said as: Shop Now) at 1823,973 size 993x111
+[tappable] (said as: It’s Woolies November Deals) at 1741,769 size 828x81
+[tappable] (said as: woolworths.co.za) at 1541,865 size 429x69
+           "Shop Now" at 1823,973 size 201x87
+           "It’s Woolies November Deals" at 1741,769 size 828x81
+           "woolworths.co.za" at 1541,865 size 429x69
