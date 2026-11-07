@@ -1,0 +1,25 @@
+window package: com.android.systemui
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] "Sat, 7 Nov" at 876,173 size 190x57
+[tappable] (said as: Open settings.) at 1791,162 size 90x90
+[tappable] "Manage" at 718,1504 size 273x-849
+[tappable] "Clear all" (said as: Clear all notifications.) at 1681,1504 size 274x-849
+           "10:27" at 645,174 size 114x59
+           "PM" at 734,176 size 64x56
+           "10:27 pm" at 540,72 size 0x144
+           "100%" at 1737,72 size 81x144
+           "Tap to turn off USB debugging" at 1351,715 size 1017x60
+[tappable] (said as: Expand) at 1875,672 size 30x264
+           (said as: mMenuContainer) at 675,658 size 270x265
+           "JOZU MADE AN OFFICIAL RELATIONSHIP WITH HER?!" at 1123,913 size 945x60
+[tappable] (said as: Expand) at 1800,832 size 120x264
+[tappable] (said as: USB Tether) at 649,313 size 135x135
+[tappable] "Off" (said as: NFC) at 869,313 size 135x135
+[tappable] "Off" at 1089,313 size 135x135
+[tappable] "Off" (said as: Wi-Fi,) at 1309,313 size 135x135
+           "Jozukai" at 729,508 size 157x72
+           "•" at 830,515 size 12x58
+           "18 minutes" at 885,515 size 67x58
+           "VodaCom-SA" at 664,72 size 200x44
+           "MTNSA" at 843,72 size 117x44
