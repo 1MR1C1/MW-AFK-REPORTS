@@ -1,0 +1,4 @@
+window package: com.android.vending
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] (said as: Close sheet) at 1185,540 size 2189x1080
