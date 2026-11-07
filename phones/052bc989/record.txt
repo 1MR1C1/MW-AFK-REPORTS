@@ -1265,3 +1265,27 @@
 11-07 13:57:41  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
 11-07 13:57:41  screen 1080x2400, 480dpi, 60Hz
 11-07 13:57:41  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
+11-07 13:58:13  stalled 14s on an unrecognised game screen, recovered into results_return_port
+11-07 13:58:38  stalled 5s on a screen from com.android.systemui, recovered into mw_loading_server
+11-07 13:59:10  stalled 20s on an unrecognised game screen, recovered into ad_play_card
+11-07 13:59:27  stalled 13s on an unrecognised game screen, recovered into ad_play_card
+11-07 13:59:44  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:00:13  stalled 19s on a screen from com.android.vending, recovered into ad_play_card
+11-07 14:00:47  stalled 30s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:01:05  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:01:40  stalled 15s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:01:56  stalled 13s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:02:14  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:02:36  stalled 7s on an unrecognised game screen, recovered into loading
+11-07 14:03:53  stalled 21s on an unrecognised game screen, recovered into in_battle
+11-07 14:06:42  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-07 14:07:26  stalled 18s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:07:45  stalled 15s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:08:10  stalled 6s on an unrecognised game screen, recovered into loading
+11-07 14:08:46  stalled 8s on an unrecognised game screen, recovered into in_battle
+11-07 14:09:07  skipped a screenshot: cn.nubia.supersnap is not the game or an advert
+11-07 14:11:19  stalled 7s on a screen from cn.nubia.entertainmenttoolbox, recovered into loading
+11-07 14:15:09  stalled 20s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:15:26  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:15:49  stalled 19s on an unrecognised game screen, recovered into ad_play_card
+11-07 14:16:18  stalled 8s on an unrecognised game screen, recovered into loading
