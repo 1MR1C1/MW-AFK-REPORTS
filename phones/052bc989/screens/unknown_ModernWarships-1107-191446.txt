@@ -1,0 +1,10 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=root at 1185,540 size 2189x1080
+           "Super Mega Win" at 1508,280 size 531x87
+           "Price" at 1982,609 size 69x36
+           "FREE" at 2015,661 size 135x75
+[tappable] "Install" at 1709,808 size 681x153
+           "96f16ba3b63d0f3347bddfdb6173a3ff2bb2c909090100cf79a71d5de7cf4c6b" at 631,540 size 966x966
+[tappable] (said as: Privacy) at 1298,985 size 45x69
