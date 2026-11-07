@@ -1570,3 +1570,16 @@
 11-07 22:02:27  stalled 7s on an unrecognised game screen, recovered into loading
 11-07 22:05:21  stalled 7s on an unrecognised game screen, recovered into mw_loading_server_lc
 11-07 22:06:09  stalled 8s on an unrecognised game screen, recovered into loading
+11-07 22:10:25  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-07 22:10:56  stalled 10s on an unrecognised game screen, recovered into ad_play_card
+11-07 22:11:26  stalled 26s on an unrecognised game screen, recovered into ad_play_card
+11-07 22:11:40  stalled 11s on an unrecognised game screen, recovered into ad_reward_x_disc
+11-07 22:12:15  stalled 7s on an unrecognised game screen, recovered into loading
+11-07 22:18:11  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-07 22:18:40  stalled 7s on an unrecognised game screen, recovered into ad_play_card
+11-07 22:19:01  stalled 17s on an unrecognised game screen, recovered into ad_play_card
+11-07 22:20:12  stalled 67s on an unrecognised game screen, recovered into ad_play_card
+11-07 22:20:42  stalled 7s on an unrecognised game screen, recovered into loading
+11-07 22:27:14  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-07 22:27:42  stalled 6s on a screen from com.android.systemui, recovered into ad_play_card
+11-07 22:28:21  === session stopped: 65 battles, 21 reward videos, 205 ad screens closed ===
