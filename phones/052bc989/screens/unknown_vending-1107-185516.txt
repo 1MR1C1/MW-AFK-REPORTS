@@ -1,0 +1,17 @@
+window package: com.android.vending
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] (said as: Close sheet) at 1185,540 size 2189x1080
+           "Amazon Shopping" at 961,557 size 607x96
+[tappable] "Amazon Mobile LLC" at 853,635 size 390x144
+           "Contains ads" at 767,689 size 218x48
+           "In-app purchases" at 1070,689 size 296x48
+           (said as: Update) at 769,833 size 144x60
+           (said as: Open) at 1603,833 size 108x60
+           "Update" at 769,833 size 144x60
+           "Open" at 1603,833 size 108x60
+           "Ask Play about this app" at 710,1043 size 464x60
+[tappable] (said as: Google Play) at 1066,389 size 1536x144
+           (said as: Search Google Play) at 1918,389 size 72x72
+           (said as: Close) at 2062,389 size 72x72
+           "New!" (said as: new!) at 1010,1043 size 88x48
