@@ -1,0 +1,32 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-portrait-phone at 1186,540 size 2190x1080
+[tappable] (said as: d%3Fid%3Dorg.malwarebytes.antimalware%26inline%3Dtrue%26enifd%3DABT2UUhFY4auG8JlJh1skmnxGBUTeaUMaDhhoUAxFJdvTflHCgtWRueSfd9_iW7eoMqOCWyqDsnkCrfe_zD6iukdxU46yH-PVvb6gfrHxdWUKAItKlrosas4lLoDh_ISLjsXPFIoNkLCM3dW%26lft%3D1%26gclid%3DEAIaIQobChMI882zotP9lwMVKcLEAR1mwQp8EAEYASAAEgIvkfD_BwE%26referrer%3Dgclid%253DEAIaIQobChMI882zotP9lwMVKcLEAR1mwQp8EAEYASAAEgIvkfD_BwE%2526gbraid%253D0AAAAABhMorLbCVpM9h12ORtxhfCsAv5up%2526gad_source%253D5%2526gad_campaignid%253D23933194930%26gref%3DEikQAhohChsKEwjzzbOi0_2XAxUpwsQBHWbBCnwQARgBIAASAi-R8P8HARiyxbLCASIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 1007,363 size 399x402
+[tappable] (said as: Trust Malwarebytes for a virus-free Android experience. Peace of mind, pocket-sized.) at 1721,325 size 903x111
+[tappable] (said as: Install) at 1571,511 size 603x105
+[tappable] (said as: RATINGS 4.5) at 883,772 size 150x153
+[tappable] (said as: CATEGORY Tools) at 1195,772 size 174x153
+[tappable] (said as: DEVELOPER Malwarebytes) at 1523,772 size 189x153
+           id=app-store-container at 919,909 size 222x48
+[tappable] (said as: Malwarebytes) at 1499,211 size 459x93
+           "Trust Malwarebytes for a virus-free Android
+experience. Peace of mind, pocket-sized." at 1721,325 size 903x111
+           "Install" id=install-button at 1571,511 size 603x105
+           "RATINGS" at 883,718 size 138x45
+           "4.5" at 883,778 size 72x69
+           "CATEGORY" at 1195,718 size 174x45
+           "Tools" at 1195,831 size 78x36
+           "DEVELOPER" at 1525,718 size 180x45
+           "Malwarebytes" at 1523,828 size 189x42
+[tappable] (said as: d%3Fid%3Dorg.malwarebytes.antimalware%26inline%3Dtrue%26enifd%3DABT2UUhFY4auG8JlJh1skmnxGBUTeaUMaDhhoUAxFJdvTflHCgtWRueSfd9_iW7eoMqOCWyqDsnkCrfe_zD6iukdxU46yH-PVvb6gfrHxdWUKAItKlrosas4lLoDh_ISLjsXPFIoNkLCM3dW%26lft%3D1%26gclid%3DEAIaIQobChMI882zotP9lwMVKcLEAR1mwQp8EAEYASAAEgIvkfD_BwE%26referrer%3Dgclid%253DEAIaIQobChMI882zotP9lwMVKcLEAR1mwQp8EAEYASAAEgIvkfD_BwE%2526gbraid%253D0AAAAABhMorLbCVpM9h12ORtxhfCsAv5up%2526gad_source%253D5%2526gad_campaignid%253D23933194930%26gref%3DEikQAhohChsKEwjzzbOi0_2XAxUpwsQBHWbBCnwQARgBIAASAi-R8P8HARiyxbLCASIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) at 919,909 size 222x48
+           "Malwarebytes" at 1499,211 size 459x93
