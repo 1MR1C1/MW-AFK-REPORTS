@@ -1,0 +1,40 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 1 of 2" at 220,69 size 222x66
+           "Royal Kingdom" at 1768,217 size 810x105
+           "Dream Games, Ltd." at 1768,352 size 810x51
+[tappable] (said as: Install) at 1667,490 size 609x111
+           "No ads and free" at 1546,628 size 1254x51
+           "Solve Puzzles, Build Your Kingdom" at 1546,685 size 1254x51
+           "4.6" at 958,804 size 78x72
+           "2 million" at 1007,873 size 177x66
+           "100 million" at 1330,873 size 234x66
+           "Last Asylum" at 2400,217 size 0x105
+           "37GAMES GLOBAL" at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "The Sanctuary of Hope." at 2400,628 size 0x51
+           "Harvest herbs for remedies! Expand ICU wards & assign nurses to heal infected…" at 2400,685 size 0x51
+           "4.7" at 2400,804 size 0x72
+           "300 thousand" at 2400,873 size 0x66
+           "20 million" at 2400,873 size 0x66
+[tappable] (said as: d%3Fid%3Dcom.dreamgames.royalkingdom%26inline%3Dtrue%26enifd%3DABT2UUhpsNKZeIld4aZUrhuv2XFA81-GUQz8VFztyMylSyhZKaX9s_yGFDkHgUhVau34pRctNqyzxeQoDeuifFghoRqngyMYMtfr5jiMIEDFr_iNrEP-gLbkSZOOSHTFR4KMwCnVVsP8fSk%26lft%3D1%26gclid%3DEAIaIQobChMI7Y2iqbb9lwMVkGweAh3i5znHEAEYASAAEgJpV_D_BwE%26referrer%3Dgclid%253DEAIaIQobChMI7Y2iqbb9lwMVkGweAh3i5znHEAEYASAAEgJpV_D_BwE%2526gbraid%253D0AAAAApeiutO_DAboQzU4vXNjmhVCixMV4%2526gad_source%253D5%2526gad_campaignid%253D22858018241%26gref%3DEikQAhohChsKEwjtjaKptv2XAxWQbB4CHeLnOccQARgBIAASAmlX8P8HARjT9Yq9KSIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) id=cl6818929850 at 451,540 size 540x972
+           id=click-hint-container at 451,540 size 720x1080
+           "Install" id=install-button at 1703,490 size 681x111
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           "You will be taken to the
+website after the ad" at 451,955 size 534x207
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
