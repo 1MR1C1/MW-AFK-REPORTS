@@ -1,0 +1,17 @@
+window package: com.facebook.katana
+class: android.widget.FrameLayout
+---- what is on it ----
+           (said as: Story tray) at 1245,490 size 2309x662
+[tappable] (said as: What's on your mind?) at 1251,113 size 1961x4
+[tappable] (said as: Select photos or videos for your post) at 2310,114 size 108x6
+[tappable] (said as: Go to profile) at 187,117 size 120x12
+[tappable] (said as: Create story) at 257,490 size 320x591
+           "Rustenburg staan saam" at 1190,884 size 1838x53
+           "AI content•Charlene Hitge Joubert invited you to join this group.•Charlene Hitge Joubert•1 Nov•Shared with: Public group" at 1093,945 size 1644x42
+[tappable] (said as: More options for Charlene Hitge Joubert's post) at 2199,883 size 132x125
+[tappable] (said as: Hide post) at 2337,883 size 126x125
+[tappable] (said as: Photo) at 1245,1046 size 2189x67
+[tappable] (said as: Open Charlene Hitge Joubert's story, unseen story) at 205,935 size 96x96
+[tappable] "Rustenburg staan saam" at 508,884 size 475x53
+[tappable] "AI content" at 354,945 size 166x42
+[tappable] "Charlene Hitge Joubert" at 1532,945 size 374x42
