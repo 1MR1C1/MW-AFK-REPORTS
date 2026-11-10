@@ -1,0 +1,26 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] (said as: Interstitial close button) at 2295,105 size 210x210
+           id=adContainer at 1245,540 size 2309x1080
+           "Reward granted" at 2116,75 size 306x54
+           id=mys-wrapper at 668,603 size 1107x906
+           id=spinner-overlay at 668,75 size 1107x150
+           id=mys-wrapper at 1822,603 size 1110x906
+           id=mys-content at 668,603 size 1107x906
+           id=mys-content at 1822,603 size 1110x906
+           id=main at 668,603 size 1107x906
+           id=landscapeStyle at 1822,603 size 1110x906
+           "Temu" at 764,601 size 795x129
+           "4.5" at 397,685 size 60x45
+           "Cozy Living, Great Value" at 668,763 size 987x69
+           "Quality home goods that won't break the
+bank. Download the app to see more." at 668,864 size 987x138
+           "Install" at 668,964 size 135x63
+[tappable] (said as: overview) at 1822,430 size 1110x561
+[tappable] (said as: Learn More) at 1823,973 size 993x111
+[tappable] (said as: FNB Private) at 1496,769 size 339x81
+[tappable] (said as: fnb.co.za) at 1438,865 size 222x69
+           "Learn More" at 1823,973 size 225x87
+           "FNB Private" at 1496,769 size 339x81
+           "fnb.co.za" at 1438,865 size 222x69
