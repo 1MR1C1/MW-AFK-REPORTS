@@ -1,0 +1,27 @@
+window package: com.facebook.katana
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] (said as: Home, tab 1 of 6) at 283,996 size 385x168
+[tappable] (said as: Reels, tab 2 of 6, 10 or more new) at 668,996 size 385x168
+[tappable] (said as: Marketplace, tab 3 of 6) at 1053,996 size 385x168
+[tappable] (said as: Groups, tab 4 of 6) at 1438,996 size 385x168
+[tappable] (said as: Notifications, tab 5 of 6, 4 new) at 1823,996 size 385x168
+[tappable] (said as: Profile, tab 6 of 6) at 2208,996 size 384x168
+[tappable] (said as: Menu) at 169,177 size 132x132
+[tappable] (said as: Facebook logo) at 427,177 size 384x96
+[tappable] (said as: Create, double-tap to create a new post, story or reel) at 2058,177 size 132x132
+[tappable] (said as: Search) at 2190,177 size 132x132
+[tappable] (said as: Messaging) at 2322,177 size 132x132
+           (said as: Story tray) at 1245,757 size 2309x645
+[tappable] "What's on your mind?" at 1251,339 size 1961x103
+[tappable] (said as: Select photos or videos for your post) at 2310,339 size 108x108
+[tappable] (said as: Go to profile) at 187,339 size 120x120
+[tappable] (said as: Create story) at 257,766 size 320x591
+[tappable] (said as: Remove) at 2020,528 size 60x60
+[tappable] "Geeks On Wheels" at 1917,832 size 314x161
+[tappable] "Add Friend" at 1917,980 size 266x108
+[tappable] (said as: Remove) at 2352,528 size 60x60
+[tappable] "John Goetsch" at 2246,832 size 308x161
+[tappable] "Add Friend" at 2249,980 size 266x108
+[tappable] (said as: Geeks On Wheels's profile picture) at 1917,648 size 180x180
+[tappable] (said as: John Goetsch's profile picture) at 2249,648 size 180x180
