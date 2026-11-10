@@ -1,0 +1,54 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=spinner-overlay at 1245,0 size 2309x0
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           "Ad 1 of 3 • Reward in 30" at 2137,72 size 384x72
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 2 of 3" at 223,69 size 228x66
+           id=click-hint-container at 2340,540 size 119x1080
+           id=panel-container at 2400,955 size 0x249
+           "Doto" at 1711,217 size 924x105
+           "Doto" at 1711,352 size 924x51
+[tappable] (said as: Install) at 1595,490 size 693x111
+           "Crypto, gold, stocks — Trade" at 1489,628 size 1368x51
+           "Gold or Bitcoin? Check Doto’s most-traded asset today and trade on it too. Install…" at 1489,685 size 1368x51
+           "4.3" at 844,804 size 78x72
+           "8 thousand" at 928,873 size 246x66
+           "1 million" at 1253,873 size 171x66
+           "Last Asylum" at 2400,217 size 0x105
+           "37GAMES GLOBAL" at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "The Sanctuary of Hope." at 2400,628 size 0x51
+           "Harvest herbs for remedies! Expand ICU wards & assign nurses to heal infected…" at 2400,685 size 0x51
+           "4.7" at 2400,804 size 0x72
+           "300 thousand" at 2400,873 size 0x66
+           "20 million" at 2400,873 size 0x66
+           "You will be taken to the website after the ad" at 2400,766 size 0x153
+           id=panel-layer1 at 2400,1080 size 0x0
+           id=panel-layer2 at 2400,955 size 0x249
+           id=click-hint-container at 395,540 size 609x1080
+           "Install" id=install-button at 1631,490 size 765x111
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           "Temu" at 2400,1080 size 0x0
+           "4.5" at 2400,1080 size 0x0
+           id=install-button-place-holder at 2400,1080 size 0x0
+           id=expansion-button at 2400,957 size 0x90
+[tappable] (said as: Install) id=install-button at 2400,955 size 0x111
+           "You will be taken
+to the website
+after the ad" at 395,928 size 411x261
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "Install" at 2400,1080 size 0x0
+           "Install" at 2400,955 size 0x111
