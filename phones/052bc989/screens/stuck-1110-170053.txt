@@ -1,0 +1,14 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=root at 1185,540 size 2189x1080
+[tappable] (said as: Privacy) at 139,1032 size 72x72
+           "GET R3000 BONUS + 10 FREE BALLS" at 1186,264 size 330x30
+           id=canvas at 1186,492 size 402x372
+           (said as: YesPlay) at 1184,163 size 87x45
+           "R" at 1175,736 size 21x39
+           "0" id=balance at 1196,736 size 21x39
+           "Bet: R50" at 1184,957 size 153x30
+[tappable] "PLAY 10 FREE" id=drop-button at 1186,852 size 108x108
+           "Time" at 1313,798 size 81x24
+           "00:03" id=timer at 1313,831 size 81x42
