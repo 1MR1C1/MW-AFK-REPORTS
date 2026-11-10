@@ -1985,3 +1985,33 @@
 11-10 17:01:00  stalled 73s on a screen from com.facebook.katana, recovered into port_reward_4_dark
 11-10 17:01:00  advert button: port_reward_4_dark
 11-10 17:01:03  advert NOT counted: port_menu pressed after 3s
+11-10 17:01:14  stalled 6s on an unrecognised game screen, recovered into loading
+11-10 17:04:38  advert button: results_increase_reward
+11-10 17:04:39  photographed reward_screen
+11-10 17:04:50  photographed reward_10s
+11-10 17:05:05  stalled 10s on an unrecognised game screen, recovered into ad_play_card
+11-10 17:05:05  advert counted: ad_play_card closed it after 26s
+11-10 17:05:31  stalled 22s on an unrecognised game screen, recovered into ad_play_card
+11-10 17:06:34  stalled 60s on an unrecognised game screen, recovered into ad_play_card
+11-10 17:06:50  advert button: port_reward_4_dark
+11-10 17:06:57  a browser opened (org.mozilla.firefox) - left it at once
+11-10 17:07:30  photographed stuck
+11-10 17:07:49  stalled 58s on a screen from com.facebook.katana, recovered into ad_play_card
+11-10 17:07:49  advert counted: ad_play_card closed it after 58s
+11-10 17:08:31  stalled 6s on an unrecognised game screen, recovered into loading
+11-10 17:12:49  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-10 17:12:53  advert button: results_increase_reward
+11-10 17:12:53  photographed reward_screen
+11-10 17:13:04  photographed reward_10s
+11-10 17:13:43  stalled 33s on an unrecognised game screen, recovered into ad_play_card
+11-10 17:13:43  advert counted: ad_play_card closed it after 50s
+11-10 17:14:47  stalled 60s on an unrecognised game screen, recovered into ad_play_card
+11-10 17:15:11  stalled 5s on an unrecognised game screen, recovered into loading
+11-10 17:19:16  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-10 17:19:19  advert button: results_increase_reward
+11-10 17:19:20  photographed reward_screen
+11-10 17:19:31  photographed reward_10s
+11-10 17:19:46  stalled 10s on an unrecognised game screen, recovered into ad_play_card
+11-10 17:19:46  advert counted: ad_play_card closed it after 26s
+11-10 17:20:04  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+11-10 17:21:01  stalled 53s on an unrecognised game screen, recovered into ad_play_card
