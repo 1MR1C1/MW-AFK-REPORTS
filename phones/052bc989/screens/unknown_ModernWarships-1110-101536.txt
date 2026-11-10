@@ -1,0 +1,27 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] (said as: Interstitial close button) at 2295,105 size 210x210
+           id=adContainer at 1245,540 size 2309x1080
+           "Reward in 35 seconds" at 2054,75 size 429x54
+           id=mys-wrapper at 668,603 size 1107x906
+           id=spinner-overlay at 668,75 size 1107x150
+           id=mys-wrapper at 1822,603 size 1110x906
+           id=mys-content at 668,603 size 1107x906
+           id=mys-content at 1822,603 size 1110x906
+           id=main at 668,603 size 1107x906
+           id=landscapeStyle at 1822,603 size 1110x906
+           "Temu" at 764,601 size 795x129
+           "4.5" at 397,685 size 60x45
+           "Cozy Living, Great Value" at 668,766 size 987x75
+           "Give your home a glow-up. Find stylish
+and affordable decor on the Temu app." at 668,871 size 987x141
+           "Install" at 668,964 size 135x63
+[tappable] (said as: %3Fgad_source%3D5%26gad_campaignid%3D22433035144&label=video_click_to_advertiser_site&ctype=110) at 1822,430 size 1110x561
+[tappable] (said as: %3Fgad_source%3D5%26gad_campaignid%3D22433035144&label=video_click_to_advertiser_site&ctype=110) at 1400,811 size 147x147
+[tappable] (said as: Learn More) at 1823,973 size 993x111
+[tappable] (said as: 99c for bread) at 1711,769 size 396x81
+[tappable] (said as: fnb.co.za) at 1624,865 size 222x69
+           "Learn More" at 1823,973 size 225x87
+           "99c for bread" at 1711,769 size 396x81
+           "fnb.co.za" at 1624,865 size 222x69
