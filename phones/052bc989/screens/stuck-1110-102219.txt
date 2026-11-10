@@ -1,0 +1,9 @@
+window package: com.facebook.katana
+class: android.widget.FrameLayout
+---- what is on it ----
+           "Honest Loans for South Africans" at 1785,545 size 793x226
+           "Loan Partner Africa" at 1785,718 size 465x73
+[tappable] "Apply Now" at 1785,881 size 793x156
+           "Ad 2 of 2" at 1473,1064 size 168x31
+[tappable] (said as: Close Ad) at 2174,192 size 451x96
+           "Skip" at 2203,191 size 106x49
