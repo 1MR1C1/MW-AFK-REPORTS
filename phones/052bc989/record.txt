@@ -1923,3 +1923,11 @@
 11-10 15:29:01  stalled 8s on a screen from com.callapp.contacts, recovered into quit_dialog
 11-10 15:29:12  stalled 8s on a screen from com.callapp.contacts, recovered into quit_dialog
 11-10 15:29:23  stalled 8s on a screen from com.callapp.contacts, recovered into quit_dialog
+11-10 15:29:34  stalled 8s on a screen from com.callapp.contacts, recovered into quit_dialog
+11-10 15:29:45  stalled 8s on a screen from com.callapp.contacts, recovered into quit_dialog
+11-10 15:29:55  stalled 8s on a screen from com.callapp.contacts, recovered into quit_dialog
+11-10 15:30:07  stalled 8s on a screen from com.callapp.contacts, recovered into quit_dialog
+11-10 15:30:18  stalled 8s on a screen from com.callapp.contacts, recovered into quit_dialog
+11-10 15:30:29  stalled 8s on a screen from com.callapp.contacts, recovered into quit_dialog
+11-10 15:30:40  stalled 8s on a screen from com.callapp.contacts, recovered into quit_dialog
+11-10 15:30:42  skipped a screenshot: com.callapp.contacts is not the game or an advert
