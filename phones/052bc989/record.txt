@@ -1602,3 +1602,45 @@
 11-10 10:09:56  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
 11-10 10:09:56  screen 1080x2400, 480dpi, 60Hz
 11-10 10:09:56  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
+11-10 10:10:02  advert button: port_reward_1_dark
+11-10 10:10:03  advert button: port_reward_2_dark
+11-10 10:10:14  advert NOT counted: results_return_port pressed after 10s
+11-10 10:11:52  advert button: port_reward_2_dark
+11-10 10:11:53  advert button: port_reward_3_dark
+11-10 10:11:56  advert NOT counted: results_return_port pressed after 3s
+11-10 10:14:34  stalled 8s on an unrecognised game screen, recovered into mw_loading_server
+11-10 10:14:40  advert button: port_reward_3_dark
+11-10 10:14:42  advert button: port_reward_4_dark
+11-10 10:15:16  stalled 30s on an unrecognised game screen, recovered into results_return_port
+11-10 10:15:16  advert NOT counted: results_return_port pressed after 34s
+11-10 10:15:41  stalled 5s on an unrecognised game screen, recovered into mw_loading_server
+11-10 10:15:48  advert button: port_reward_4_dark
+11-10 10:15:52  advert NOT counted: port_menu pressed after 3s
+11-10 10:15:57  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-10 10:16:01  a browser opened (org.mozilla.firefox) - left it at once
+11-10 10:16:24  stalled 27s on a screen from com.facebook.katana, recovered into results_return_port
+11-10 10:16:31  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-10 10:16:53  photographed stuck
+11-10 10:17:14  photographed stuck
+11-10 10:17:19  stalled 49s on a screen from com.facebook.katana, recovered into ad_not_ready
+11-10 10:17:22  advert button: port_reward_4_dark
+11-10 10:17:24  advert NOT counted: port_menu pressed after 1s
+11-10 10:17:34  stalled 6s on an unrecognised game screen, recovered into loading
+11-10 10:20:37  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-10 10:20:51  advert button: port_reward_4_dark
+11-10 10:20:52  advert NOT counted: port_menu pressed after 1s
+11-10 10:20:57  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-10 10:21:01  a browser opened (org.mozilla.firefox) - left it at once
+11-10 10:22:20  photographed stuck
+11-10 10:22:38  photographed stuck
+11-10 10:22:43  stalled 106s on a screen from com.facebook.katana, recovered into ad_not_ready
+11-10 10:22:46  advert button: port_reward_4_dark
+11-10 10:22:47  advert NOT counted: port_menu pressed after 1s
+11-10 10:22:59  stalled 6s on an unrecognised game screen, recovered into loading
+11-10 10:28:11  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-10 10:28:25  advert button: port_reward_4_dark
+11-10 10:28:26  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-10 10:28:36  a browser opened (org.mozilla.firefox) - left it at once
+11-10 10:29:05  photographed stuck
+11-10 10:29:46  stalled 79s on an unrecognised game screen, recovered into ad_play_card
+11-10 10:29:46  advert counted: ad_play_card closed it after 80s
