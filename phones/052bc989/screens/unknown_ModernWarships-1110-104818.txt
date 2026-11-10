@@ -1,0 +1,41 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           "Ad 1 of 2 • Reward in 16" at 2137,72 size 384x72
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 2 of 2" at 223,69 size 228x66
+           "Last Asylum" at 2400,217 size 0x105
+           "37GAMES GLOBAL" at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "Download Now" at 2400,628 size 0x51
+           "Plague comes. Can you survive until the seventh day?" at 2400,685 size 0x51
+           "4.7" at 2400,804 size 0x72
+           "300 thousand" at 2400,873 size 0x66
+           "20 million" at 2400,873 size 0x66
+           "Royal Kingdom" at 1768,217 size 810x105
+           "Dream Games, Ltd." at 1768,352 size 810x51
+[tappable] (said as: Install) at 1667,490 size 609x111
+           "Build Your Dream Kingdom" at 1546,628 size 1254x51
+           "Get ready to be a part of King Richard’s glorious match 3 puzzle adventure" at 1546,685 size 1254x51
+           "4.6" at 958,804 size 78x72
+           "2 million" at 1007,873 size 177x66
+           "100 million" at 1330,873 size 234x66
+[tappable] (said as: d%3Fid%3Dcom.dreamgames.royalkingdom%26inline%3Dtrue%26enifd%3DABT2UUjCW6n1HarC23yUswr479JecH_g4xJvlk1s8kMsBp3f9FEy2oyF32FjPq5oMQFvtF0VEf4uRXQKQ-BUDVLd1Obw7j74_OIf1Da7N8ZaCQQuSiP_hQ7kPL67r1D6K4Lu_O6W1TFtwpg%26lft%3D1%26gclid%3DEAIaIQobChMI-M_nhYL9lwMVt5cZCR2y2zvuEAEYAiAAEgJhWvD_BwE%26referrer%3Dgclid%253DEAIaIQobChMI-M_nhYL9lwMVt5cZCR2y2zvuEAEYAiAAEgJhWvD_BwE%2526gbraid%253D0AAAAApeiutO_DAboQzU4vXNjmhVCixMV4%2526gad_source%253D5%2526gad_campaignid%253D22858018241%26gref%3DEikQAhohChsKEwj4z-eFgv2XAxW3lxkJHbLbO-4QARgCIAASAmFa8P8HARjT9Yq9KSIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) id=cl6818929851 at 449,540 size 543x972
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           id=click-hint-container at 451,540 size 720x1080
+           "Install" id=install-button at 1703,490 size 681x111
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "You will be taken to the
+website after the ad" at 449,955 size 531x207
