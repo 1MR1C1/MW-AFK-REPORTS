@@ -1706,3 +1706,23 @@
 11-10 14:09:02  stalled 100s on an unrecognised game screen, recovered into ad_not_ready
 11-10 14:09:04  advert button: port_reward_4_dark
 11-10 14:09:06  advert NOT counted: port_menu pressed after 1s
+11-10 14:09:19  stalled 8s on an unrecognised game screen, recovered into loading
+11-10 14:13:13  advert button: port_reward_4_dark
+11-10 14:13:14  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-10 14:13:21  a browser opened (org.mozilla.firefox) - left it at once
+11-10 14:13:54  photographed stuck
+11-10 14:14:49  photographed stuck
+11-10 14:14:54  stalled 100s on an unrecognised game screen, recovered into ad_not_ready
+11-10 14:14:57  advert button: port_reward_4_dark
+11-10 14:14:58  advert NOT counted: port_menu pressed after 1s
+11-10 14:17:36  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-10 14:17:52  advert button: port_reward_4_dark
+11-10 14:18:00  a browser opened (org.mozilla.firefox) - left it at once
+11-10 14:19:17  photographed stuck
+11-10 14:19:35  photographed stuck
+11-10 14:19:40  stalled 107s on an unrecognised game screen, recovered into items_added
+11-10 14:19:40  advert counted: items-added banner
+11-10 14:25:08  stalled 7s on an unrecognised game screen, recovered into port_menu
+11-10 14:25:19  stalled 6s on an unrecognised game screen, recovered into loading
+11-10 14:28:11  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-10 14:28:34  stalled 5s on an unrecognised game screen, recovered into loading
