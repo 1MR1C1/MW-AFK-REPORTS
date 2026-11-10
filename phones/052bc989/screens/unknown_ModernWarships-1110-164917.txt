@@ -1,0 +1,40 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=root at 1185,540 size 2189x1080
+[tappable] (said as: Privacy) at 139,1032 size 72x72
+           id=ad at 1185,540 size 2189x1080
+           (said as: Plinko game board) id=game at 1185,540 size 2189x1080
+[tappable] (said as: Install Plinko Drop) id=cta at 2156,1045 size 183x69
+[tappable] (said as: History) id=historyButton at 547,997 size 96x93
+[tappable] (said as: Game rules) id=helpButton at 661,997 size 96x93
+[tappable] (said as: Sound) id=soundButton at 775,997 size 96x93
+           id=winPanel at 1492,894 size 618x324
+[tappable] (said as: Drop a ball) id=playButton at 1492,858 size 168x168
+           "Rows" at 2191,207 size 60x30
+[tappable] "8" at 2192,249 size 93x48
+[tappable] "9" at 2192,294 size 93x48
+[tappable] "10" at 2192,339 size 93x48
+[tappable] "11" at 2192,384 size 93x48
+[tappable] "12" at 2192,429 size 93x48
+[tappable] "13" at 2192,474 size 93x48
+[tappable] "14" at 2192,519 size 93x48
+[tappable] "15" at 2192,564 size 93x48
+[tappable] "16" at 2192,609 size 93x48
+           "WIN" at 1185,540 size 2189x1080
+           "R0.00" id=winValue at 1185,540 size 2189x1080
+           "Risk level" at 1261,783 size 102x30
+[tappable] "High" at 1261,825 size 156x54
+[tappable] "Medium" at 1261,879 size 156x54
+[tappable] "Low" at 1261,933 size 156x54
+           "Game mode" at 1721,783 size 135x30
+[tappable] "Manual" at 1723,825 size 156x54
+[tappable] "Auto" at 1723,879 size 156x54
+[tappable] "Min" id=minBet at 1225,1009 size 84x63
+[tappable] "−" id=minusBet at 1304,1009 size 81x63
+[tappable] "+" id=plusBet at 1666,1009 size 84x63
+[tappable] "Max" id=maxBet at 1753,1009 size 96x63
+           "Balance R" at 1433,1060 size 123x33
+           "10,000.00" id=balanceValue at 1552,1060 size 120x33
+           "Bet R" at 1451,1009 size 69x33
+           "20.00" id=betValue at 1519,1009 size 72x33
