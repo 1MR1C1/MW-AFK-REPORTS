@@ -1,0 +1,25 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=adContainer at 1245,540 size 2309x1080
+           "Ad 1 of 2" at 188,75 size 147x42
+           id=nn8qoxrd55b5 at 1245,615 size 2309x930
+           id=gmsg-video-player at 1243,615 size 2190x930
+           "Reward in 23 seconds" at 2054,75 size 429x54
+           id=mys-wrapper at 1245,615 size 2309x930
+           id=abgcp at 2361,1030 size 77x99
+           id=spinner-overlay at 1245,75 size 2309x150
+           id=mys-content at 1244,615 size 2193x930
+           id=abgc at 2374,1054 size 48x45
+           id=abgb at 2374,1054 size 48x45
+           id=landscape-landscape-phone at 1244,615 size 2193x930
+           id=panel-container at 1244,972 size 1317x216
+           id=click-hint-container at 1244,615 size 2193x930
+           id=panel-layer1 at 1244,1080 size 1317x0
+           id=panel-layer2 at 1244,972 size 1317x216
+           "You will be taken to the website after the ad" at 1246,799 size 918x153
+           "Temu" at 1180,1080 size 762x0
+           "4.5" at 829,1080 size 60x0
+           id=install-button-place-holder at 1732,1080 size 264x0
+           id=expansion-button at 736,972 size 78x78
+           "Install" at 1732,1080 size 132x0
