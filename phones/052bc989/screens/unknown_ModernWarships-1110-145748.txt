@@ -1,0 +1,42 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           "Ad 1 of 2 • Reward in 16" at 2137,72 size 384x72
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 2 of 2" at 223,69 size 228x66
+           "Last Asylum" at 2400,217 size 0x105
+           "37GAMES GLOBAL" at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "Download Now" at 2400,628 size 0x51
+           "Run Your Own Hospital" at 2400,685 size 0x51
+           "4.7" at 2400,804 size 0x72
+           "300 thousand" at 2400,873 size 0x66
+           "20 million" at 2400,873 size 0x66
+           "Lordrush" at 1711,217 size 924x105
+           "Century Games Innovation Pte. Ltd." at 1711,352 size 924x51
+[tappable] (said as: Install) at 1595,490 size 693x111
+           "Forge your medieval realm" at 1490,628 size 1365x51
+           "Become the leader of the strongest army with the best tower defense to save the…" at 1490,685 size 1365x51
+           "4.5" at 845,804 size 75x72
+           "100 thousand" at 958,873 size 300x66
+           "4 million" at 1315,873 size 180x66
+[tappable] (said as: d%3Fid%3Dcom.s01.global%26inline%3Dtrue%26enifd%3DABT2UUjOvEt31tOhoXKuz9xNqJs839YXXqfDd4bWJPiQ5XNPaM21BGwzO_Ve05o9Q3e596Qief2kS6wPjZyYtRjmN70-B56IpPN-CQkuc6GGbi4PEr57_aVS19Smgw%26lft%3D1%26gclid%3DEAIaIQobChMImIvW6Ln9lwMVzf3EAR174gZ3EAEYAiAAEgLuzvD_BwE%26referrer%3Dgclid%253DEAIaIQobChMImIvW6Ln9lwMVzf3EAR174gZ3EAEYAiAAEgLuzvD_BwE%2526gbraid%253D0AAAABENeR4Jl41XEKCCgMASy4q9chSnBl%2526gad_source%253D5%2526gad_campaignid%253D24371490177%26gref%3DEikQAhohChsKEwiYi9bouf2XAxXN_cQBHXviBncQARgCIAASAu7O8P8HARiCj_maRCIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) id=cl6818929851 at 395,540 size 459x972
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           id=click-hint-container at 395,540 size 609x1080
+           "Install" id=install-button at 1631,490 size 765x111
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "You will be taken
+to the website
+after the ad" at 395,928 size 411x261
