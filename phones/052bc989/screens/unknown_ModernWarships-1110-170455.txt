@@ -1,0 +1,51 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 1 of 3" at 221,69 size 225x66
+           "Booking.com" at 1768,217 size 810x105
+           "Booking.com Hotels & Vacation Rentals" at 1768,352 size 810x51
+[tappable] (said as: Install) at 1667,490 size 609x111
+           "Stay somewhere unique." at 1546,628 size 1254x51
+           "24/7 customer service, wherever your travels take you." at 1546,685 size 1254x51
+           "4.7" at 956,804 size 75x72
+           "6 million" at 1007,873 size 177x66
+           "800 million" at 1334,873 size 237x66
+           "Doto" at 2400,217 size 0x105
+           "Doto" at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "0% fees. 100% yours. Doto." at 2400,628 size 0x51
+           "From $10 to start, 0% commission to withdraw, 600+ assets in one app. Try Doto!" at 2400,685 size 0x51
+           "4.3" at 2400,804 size 0x72
+           "8 thousand" at 2400,873 size 0x66
+           "1 million" at 2400,873 size 0x66
+           "Royal Kingdom" at 2400,217 size 0x105
+           "Dream Games, Ltd." at 2400,352 size 0x51
+[tappable] (said as: Install) at 2400,490 size 0x111
+           "Build Your Dream Kingdom" at 2400,628 size 0x51
+           "Get ready to be a part of King Richard’s glorious match 3 puzzle adventure" at 2400,685 size 0x51
+           "4.6" at 2400,804 size 0x72
+           "2 million" at 2400,873 size 0x66
+           "100 million" at 2400,873 size 0x66
+           id=click-hint-container at 451,540 size 720x1080
+           "Install" id=install-button at 1703,490 size 681x111
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           id=click-hint-container at 2340,540 size 119x1080
+           "Install" id=install-button at 2400,490 size 0x111
+           "You will be taken to the
+website after the ad" at 451,955 size 534x207
+           "You will be taken
+to the website
+after the ad" at 2390,928 size 20x261
+           "You will be taken to the
+website after the ad" at 2387,955 size 26x207
