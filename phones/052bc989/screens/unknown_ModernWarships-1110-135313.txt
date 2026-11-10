@@ -1,0 +1,24 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=adContainer at 1245,540 size 2309x1080
+           id=mys-wrapper at 668,603 size 1107x906
+           id=mys-wrapper at 1822,603 size 1110x906
+           id=mys-content at 668,577 size 1059x1005
+           id=mys-content at 1822,577 size 1062x1005
+           id=squareStyleLVideo at 668,577 size 1059x1005
+           id=squareStyleLVideo at 1822,577 size 1062x1005
+[tappable] (said as: Check In) at 668,997 size 639x99
+[tappable] (said as: Learn More) at 1823,997 size 639x99
+[tappable] (said as: %3Fgad_source%3D5%26gad_campaignid%3D24427793668&label=video_click_to_advertiser_site&ctype=110) at 668,399 size 1059x606
+[tappable] (said as: Slide in the DMs) at 668,768 size 555x102
+[tappable] (said as: oreo.co.za) at 668,850 size 177x51
+           "Check In" at 668,997 size 171x87
+[tappable] (said as: hilux-range%3Futm_source%3Dyoutube%26utm_medium%3Dpaid%26utm_campaign%3Dtoyota_always_on_za%26utm_content%3D1x1%26dclid%3DCIXVp4-y1JYDFWwq-wMd3twrpg%26gad_source%3D7%26gad_campaignid%3D24218096299%26gad_source%3D5%26gad_campaignid%3D24391879173&label=video_click_to_advertiser_site&ctype=110) at 1822,399 size 1062x606
+[tappable] (said as: Built on tough) at 1822,768 size 486x102
+[tappable] (said as: toyota.co.za) at 1822,850 size 204x51
+           "Learn More" at 1822,997 size 234x87
+           "Slide in the DMs" at 668,768 size 555x102
+           "oreo.co.za" at 668,850 size 177x51
+           "Built on tough" at 1822,768 size 486x102
+           "toyota.co.za" at 1822,850 size 204x51
