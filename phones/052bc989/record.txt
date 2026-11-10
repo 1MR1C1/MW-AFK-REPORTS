@@ -1644,3 +1644,23 @@
 11-10 10:29:05  photographed stuck
 11-10 10:29:46  stalled 79s on an unrecognised game screen, recovered into ad_play_card
 11-10 10:29:46  advert counted: ad_play_card closed it after 80s
+11-10 10:30:10  photographed stuck
+11-10 10:30:15  stalled 25s on an unrecognised game screen, recovered into items_added
+11-10 10:30:29  stalled 6s on an unrecognised game screen, recovered into loading
+11-10 10:35:51  stalled 5s on an unrecognised game screen, recovered into loading
+11-10 10:41:05  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-10 10:41:12  advert button: results_increase_reward
+11-10 10:41:13  photographed reward_screen
+11-10 10:41:24  photographed reward_10s
+11-10 10:41:50  stalled 20s on an unrecognised game screen, recovered into ad_play_card
+11-10 10:41:50  advert counted: ad_play_card closed it after 38s
+11-10 10:42:09  stalled 16s on an unrecognised game screen, recovered into ad_play_card
+11-10 10:43:07  stalled 54s on an unrecognised game screen, recovered into ad_play_card
+11-10 10:43:32  stalled 5s on an unrecognised game screen, recovered into loading
+11-10 10:47:24  advert button: results_increase_reward
+11-10 10:47:25  photographed reward_screen
+11-10 10:47:36  photographed reward_10s
+11-10 10:48:14  stalled 33s on an unrecognised game screen, recovered into ad_play_card
+11-10 10:48:14  advert counted: ad_play_card closed it after 50s
+11-10 10:49:18  stalled 60s on an unrecognised game screen, recovered into ad_play_card
+11-10 10:49:41  stalled 5s on an unrecognised game screen, recovered into loading
