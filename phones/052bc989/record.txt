@@ -1744,3 +1744,73 @@
 11-10 14:43:08  stalled 54s on an unrecognised game screen, recovered into ad_play_card
 11-10 14:43:33  stalled 5s on an unrecognised game screen, recovered into loading
 11-10 14:49:22  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-10 14:49:26  advert button: results_increase_reward
+11-10 14:49:26  photographed reward_screen
+11-10 14:49:37  photographed reward_10s
+11-10 14:50:16  stalled 33s on an unrecognised game screen, recovered into ad_play_card
+11-10 14:50:16  advert counted: ad_play_card closed it after 50s
+11-10 14:51:16  stalled 48s on an unrecognised game screen, recovered into ad_play_card
+11-10 14:51:45  stalled 5s on an unrecognised game screen, recovered into loading
+11-10 14:56:55  advert button: results_increase_reward
+11-10 14:56:56  photographed reward_screen
+11-10 14:57:07  photographed reward_10s
+11-10 14:57:44  stalled 32s on an unrecognised game screen, recovered into ad_play_card
+11-10 14:57:44  advert counted: ad_play_card closed it after 49s
+11-10 14:58:47  stalled 59s on an unrecognised game screen, recovered into ad_play_card
+11-10 14:59:03  stalled 9s on an unrecognised game screen, recovered into quit_dialog
+11-10 14:59:15  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 14:59:26  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 14:59:37  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 14:59:48  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 14:59:59  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:00:10  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:00:21  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:00:32  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:00:43  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:00:54  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:01:05  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:01:17  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:01:28  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:01:39  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:01:50  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:02:01  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:02:12  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:02:23  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:02:34  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:02:45  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:02:56  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:03:07  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:03:18  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:03:29  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:03:40  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:03:51  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:04:01  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:04:12  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:04:23  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:04:34  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:04:45  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:04:56  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:05:07  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:05:18  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:05:29  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:05:40  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:05:51  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:06:02  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:06:13  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:06:24  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:06:36  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:06:47  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:06:58  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:07:09  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:07:19  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:07:30  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:07:41  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:07:52  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:08:03  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:08:14  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:08:25  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:08:36  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:08:47  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:08:58  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:09:09  stalled 8s on an unrecognised game screen, recovered into quit_dialog
+11-10 15:09:20  stalled 8s on an unrecognised game screen, recovered into quit_dialog
