@@ -1,0 +1,21 @@
+window package: com.android.vending
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] (said as: Close sheet) at 1185,540 size 2189x1080
+           "Avia Flight Jackpot" at 974,557 size 632x96
+[tappable] "Mesh Stocks" at 782,635 size 248x144
+[tappable] (said as: Average rating 3,8 stars in 57 reviews) at 490,857 size 240x192
+[tappable] (said as: Content rating Rated for 3+) at 836,857 size 254x192
+           (said as: 4,3 MB) at 1182,857 size 240x192
+           (said as: Downloaded 50 thousand plus times) at 1521,857 size 240x192
+[tappable] (said as: Screenshot 1 of 6) at 516,1037 size 280x85
+[tappable] (said as: Screenshot 2 of 6) at 835,1037 size 280x85
+[tappable] (said as: Screenshot 3 of 6) at 1154,1037 size 280x85
+[tappable] (said as: Screenshot 4 of 6) at 1473,1037 size 280x85
+[tappable] (said as: Screenshot 5 of 6) at 1792,1037 size 280x85
+[tappable] (said as: Screenshot 6 of 6) at 2058,1037 size 175x85
+           (said as: Install) at 1822,629 size 120x60
+[tappable] (said as: Google Play) at 1066,389 size 1536x144
+           (said as: Search Google Play) at 1918,389 size 72x72
+           (said as: Close) at 2062,389 size 72x72
+           "Install" at 1822,629 size 120x60
