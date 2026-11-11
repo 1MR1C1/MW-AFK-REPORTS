@@ -1,0 +1,27 @@
+window package: com.android.systemui
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] "Wed, 11 Nov" at 899,173 size 236x57
+[tappable] (said as: Open settings.) at 1791,162 size 90x90
+[tappable] "Manage" at 718,1158 size 273x-157
+           "12:13" at 645,174 size 114x59
+           "PM" at 734,176 size 64x56
+           "12:13 pm" at 540,72 size 0x144
+           "72%" at 1766,72 size 62x144
+[tappable] (said as: Applications are using your microphone.) at 1770,84 size 168x169
+           "Pappa" at 848,547 size 137x83
+           "•" at 935,554 size 12x58
+           "WhatsApp" at 1029,555 size 153x58
+           "•" at 1124,557 size 12x58
+           "00:13" (said as: 13 seconds) at 1184,558 size 84x58
+           "Ongoing voice call" at 1260,622 size 960x62
+[tappable] (said as: Collapse) at 1800,487 size 120x72
+[tappable] "HANG UP" (said as: Hang up) at 1697,739 size 254x120
+[tappable] (said as: USB Tether) at 649,313 size 135x135
+[tappable] "Off" (said as: NFC) at 869,313 size 135x135
+[tappable] "Off" at 1089,313 size 135x135
+[tappable] "Off" (said as: Wi-Fi,) at 1309,313 size 135x135
+[tappable] (said as: Expand) at 1800,889 size 120x72
+           "VodaCom-SA" at 664,72 size 200x44
+           "MTNSA" at 843,72 size 117x44
+           "MW AFK is displaying over other apps" at 1037,888 size 756x77
