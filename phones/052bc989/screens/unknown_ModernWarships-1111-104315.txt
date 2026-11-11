@@ -1,0 +1,40 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=app-interstitial-slot at 1186,540 size 2190x1080
+           id=spinner-overlay at 1245,0 size 2309x0
+           id=mys-creative at 1186,540 size 2190x1080
+           id=mys-wrapper at 1186,540 size 2190x1080
+           id=abgcp at 2243,1030 size 75x99
+           "Ad 1 of 2 • Reward in 30" at 2137,72 size 384x72
+           id=mys-content at 1186,540 size 2190x1080
+           id=abgc at 2255,1054 size 45x45
+           id=all-video-container at 1186,1080 size 2190x0
+           id=mys-progress-bar at 1186,9 size 2190x18
+           id=abgb at 2255,1054 size 45x45
+           id=landscape-phone at 1186,540 size 2190x1080
+           "Ad 2 of 2" at 223,69 size 228x66
+           id=click-hint-container at 2340,540 size 119x1080
+           id=panel-container at 2400,955 size 0x249
+           "Trophy Hunter" at 1726,429 size 894x102
+           "Hunt deer and big game." at 1726,525 size 894x48
+           "From deer to lions. Hunt the world's most diverse game." at 1726,574 size 894x51
+           "4.6" at 1318,655 size 78x75
+           "100 thousand" at 1429,726 size 300x66
+           "8 million" at 1786,723 size 180x66
+[tappable] (said as: Install) at 1459,931 size 360x111
+[tappable] (said as: d%3Fid%3Dtrophy.hunter.hunting.games.sniper.shooting%26inline%3Dtrue%26enifd%3DABT2UUhjOkh_ncj0nysWR9EmtcmXSOZh-5wYVRKx0Al8QB5YPhYiPmXTW4MyMPJO_CCjfjqWUzG9n7rh_jlMqML5Lcb7sGUo5NZgcrLxWc0RWFnhk14MNRTb2NcbJyEO658oX56d9YnAA3fGhycx_OvKwX1kPkQSkWix%26lft%3D1%26gclid%3DEAIaIQobChMI24Xb6cL_lwMVJkIdCR1ChQsdEAEYAiAAEgKETfD_BwE%26referrer%3Dgclid%253DEAIaIQobChMI24Xb6cL_lwMVJkIdCR1ChQsdEAEYAiAAEgKETfD_BwE%2526gbraid%253D0AAAAA_6-PaHRNq8dewoNTROkzU_wkTkOw%2526gad_source%253D5%2526gad_campaignid%253D23902174520%26gref%3DEikQAhohChsKEwjbhdvpwv-XAxUmQh0JHUKFCx0QARgCIAASAoRN8P8HARih-_j1PyIKCAEYECABMAE4AQ%23Intent%3Bscheme%3Dhttps%3Bpackage%3Dcom.android) id=cl6818929851 at 631,540 size 810x972
+           "You will be taken to the website after the ad" at 2400,766 size 0x153
+           id=panel-layer1 at 2400,1080 size 0x0
+           id=panel-layer2 at 2400,955 size 0x249
+           id=click-hint-container at 631,540 size 1080x1080
+           "Install" id=install-button at 1495,931 size 432x111
+           "Temu" at 2400,1080 size 0x0
+           "4.5" at 2400,1080 size 0x0
+           id=install-button-place-holder at 2400,1080 size 0x0
+           id=expansion-button at 2400,957 size 0x90
+[tappable] (said as: Install) id=install-button at 2400,955 size 0x111
+           "You will be taken to the website after the
+ad" at 631,955 size 858x207
+           "Install" at 2400,1080 size 0x0
+           "Install" at 2400,955 size 0x111
