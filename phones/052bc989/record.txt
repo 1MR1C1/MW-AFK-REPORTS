@@ -2036,3 +2036,46 @@
 11-11 10:39:15  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
 11-11 10:39:15  *** THE GAME WAS UPDATED since the last run: 0.110.0.120516554 -> 0.110.2.120516560
 11-11 10:39:15  *** if something stopped working, start here
+11-11 10:40:03  advert button: port_reward_1_dark
+11-11 10:40:04  advert button: port_reward_2_dark
+11-11 10:40:10  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-11 10:40:20  a browser opened (org.mozilla.firefox) - left it at once
+11-11 10:40:21  stalled 11s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 10:40:21  advert NOT counted: results_return_port pressed after 17s
+11-11 10:40:28  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-11 10:41:35  photographed stuck
+11-11 10:41:57  stalled 89s on a screen from com.facebook.katana, recovered into loading
+11-11 10:42:12  stalled 12s on an unrecognised game screen, recovered into ad_play_card
+11-11 10:42:34  advert button: port_reward_2_dark
+11-11 10:42:35  advert button: port_reward_3_dark
+11-11 10:43:11  stalled 32s on an unrecognised game screen, recovered into ad_play_card
+11-11 10:43:11  advert counted: ad_play_card closed it after 36s
+11-11 10:44:15  stalled 60s on an unrecognised game screen, recovered into ad_play_card
+11-11 10:44:22  advert button: port_reward_3_dark
+11-11 10:44:24  advert button: port_reward_4_dark
+11-11 10:45:25  stalled 60s on an unrecognised game screen, recovered into ad_play_card
+11-11 10:45:25  advert counted: ad_play_card closed it after 61s
+11-11 10:45:32  advert button: port_reward_4_dark
+11-11 10:45:34  advert NOT counted: port_menu pressed after 1s
+11-11 10:45:44  stalled 6s on an unrecognised game screen, recovered into loading
+11-11 10:51:00  stalled 6s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-11 10:51:04  advert button: results_increase_reward
+11-11 10:51:05  photographed reward_screen
+11-11 10:51:16  photographed reward_10s
+11-11 10:51:40  stalled 18s on an unrecognised game screen, recovered into ad_play_card
+11-11 10:51:40  advert counted: ad_play_card closed it after 36s
+11-11 10:52:00  stalled 15s on an unrecognised game screen, recovered into ad_play_card
+11-11 10:53:01  stalled 58s on an unrecognised game screen, recovered into ad_play_card
+11-11 10:53:19  advert button: port_reward_4_dark
+11-11 10:53:21  advert NOT counted: port_menu pressed after 1s
+11-11 10:53:25  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-11 10:53:30  a browser opened (org.mozilla.firefox) - left it at once
+11-11 10:54:50  photographed stuck
+11-11 10:55:08  photographed stuck
+11-11 10:55:13  stalled 108s on a screen from com.facebook.katana, recovered into ad_not_ready
+11-11 10:55:16  advert button: port_reward_4_dark
+11-11 10:55:17  advert NOT counted: port_menu pressed after 1s
+11-11 10:55:30  stalled 7s on an unrecognised game screen, recovered into loading
+11-11 10:59:46  advert button: port_reward_4_dark
+11-11 10:59:48  advert NOT counted: port_menu pressed after 1s
+11-11 10:59:57  a browser opened (org.mozilla.firefox) - left it at once
