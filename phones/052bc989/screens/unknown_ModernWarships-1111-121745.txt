@@ -1,0 +1,46 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=root at 1185,540 size 2189x1080
+[tappable] (said as: Privacy) at 139,1032 size 72x72
+           id=backdrop at 1185,540 size 2189x1080
+           id=stage at 1184,540 size 1779x888
+           id=game at 1184,540 size 1779x888
+[tappable] "))" id=sound at 385,219 size 84x84
+           id=ambient at 1184,540 size 1779x888
+           (said as: Plinko) id=logo at 1646,283 size 501x201
+           id=board at 746,519 size 579x684
+           id=lines at 1151,457 size 75x459
+           id=play-area at 1634,597 size 261x264
+           id=hud at 1634,852 size 759x120
+           id=portal at 746,214 size 75x75
+           id=ready-ball at 746,213 size 69x66
+           id=bins at 746,843 size 585x36
+           "Líneas" at 1151,244 size 69x27
+[tappable] (said as: Play Plinko) id=play at 1634,598 size 261x261
+           id=bet at 1634,831 size 759x48
+           id=balance at 1634,876 size 759x48
+           "×5.6" at 481,843 size 54x36
+           "×2.1" at 548,843 size 57x36
+           "×1.1" at 614,843 size 57x36
+           "×1" at 680,843 size 57x36
+           "×0.5" at 746,843 size 57x36
+           "×1" at 812,843 size 57x36
+           "×1.1" at 878,843 size 57x36
+           "×2.1" at 944,843 size 57x36
+           "×5.6" at 1012,843 size 54x36
+           "8" at 1151,283 size 75x51
+           "9" at 1151,331 size 75x51
+           "10" at 1151,378 size 75x48
+           "11" at 1151,424 size 75x51
+           "12" at 1151,472 size 75x51
+           "13" at 1151,520 size 75x51
+           "14" at 1151,567 size 75x48
+           "15" at 1151,613 size 75x51
+           "16" at 1151,661 size 75x51
+           "BET" id=bet-label at 1513,832 size 138x45
+           "15.00" id=bet-value at 1675,829 size 162x45
+           "ZAR" at 1796,831 size 57x36
+           "BALANCE" id=balance-label at 1513,880 size 138x45
+           "0.00" id=balance-value at 1675,874 size 162x45
+           "ZAR" at 1796,877 size 57x39
