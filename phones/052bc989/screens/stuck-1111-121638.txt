@@ -1,0 +1,9 @@
+window package: com.facebook.katana
+class: android.widget.FrameLayout
+---- what is on it ----
+           "Open an account today!" at 1548,551 size 809x226
+           "Discovery South Africa" at 1548,724 size 543x73
+[tappable] "See Details" at 1548,887 size 809x156
+           "Ad 1 of 2" at 1228,1067 size 168x25
+[tappable] (said as: Close Ad) at 2251,192 size 298x96
+           "Skip" at 2203,191 size 106x49
