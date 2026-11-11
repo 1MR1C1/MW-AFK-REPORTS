@@ -1,0 +1,9 @@
+window package: com.facebook.katana
+class: android.widget.FrameLayout
+---- what is on it ----
+           "Handle your money like an expert" at 1677,545 size 1009x226
+           "FINN App - South Africa" at 1677,718 size 568x73
+[tappable] "Sign Up" at 1677,881 size 1009x156
+           "Ad 2 of 2" at 1257,1064 size 168x31
+[tappable] (said as: Close Ad) at 2251,192 size 298x96
+           "Skip" at 2203,191 size 106x49
