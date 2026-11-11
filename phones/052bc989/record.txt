@@ -2212,3 +2212,75 @@
 11-11 11:58:46  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
 11-11 11:58:58  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
 11-11 11:59:33  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:01:29  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:01:40  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:02:04  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:02:16  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:02:28  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:02:40  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:03:03  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:03:15  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:03:27  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:03:39  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:03:51  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:04:26  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:04:38  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:04:50  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:05:02  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:05:14  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:05:26  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:05:38  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:05:50  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:06:02  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:06:14  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:06:26  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:06:38  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:06:50  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:07:02  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:07:14  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:07:26  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:07:38  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:07:50  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:08:01  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:08:13  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:08:25  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:08:37  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:08:49  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:09:01  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:09:13  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:09:25  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:09:37  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:09:49  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:10:01  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:10:13  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:10:25  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:10:37  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:10:49  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:11:01  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:11:13  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:11:48  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:12:00  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:12:24  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:12:36  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:13:06  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-11 12:13:17  stalled 11s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:13:35  stalled 11s on a screen from com.android.systemui, recovered into results_return_port
+11-11 12:13:42  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-11 12:14:03  stalled 20s on a screen from cn.nubia.launcher, recovered into results_return_port
+11-11 12:14:09  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-11 12:15:32  photographed stuck
+11-11 12:15:51  photographed stuck
+11-11 12:16:06  stalled 117s on a screen from com.facebook.katana, recovered into menu_back
+11-11 12:16:12  advert button: port_reward_1_dark
+11-11 12:16:13  advert button: port_reward_2_dark
+11-11 12:16:19  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-11 12:16:28  a browser opened (org.mozilla.firefox) - left it at once
+11-11 12:16:38  photographed stuck
+11-11 12:17:41  stalled 82s on a screen from com.facebook.katana, recovered into ad_play_card
+11-11 12:17:41  advert counted: ad_play_card closed it after 87s
+11-11 12:19:16  photographed stuck
+11-11 12:19:22  stalled 97s on an unrecognised game screen, recovered into items_added
+11-11 12:19:25  advert button: port_reward_2_dark
+11-11 12:19:27  advert button: port_reward_4_dark
+11-11 12:19:43  stalled 13s on an unrecognised game screen, recovered into ad_play_card
+11-11 12:19:43  advert counted: ad_play_card closed it after 16s
