@@ -1,0 +1,28 @@
+window package: com.facebook.katana
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] (said as: Close) at 175,177 size 108x108
+[tappable] (said as: Search) at 2088,177 size 108x108
+[tappable] (said as: Profile switcher) at 2208,177 size 120x132
+[tappable] (said as: ❤️) at 228,858 size 274x168
+[tappable] (said as: 🙌) at 501,858 size 273x168
+[tappable] (said as: 🔥) at 775,858 size 274x168
+[tappable] (said as: 👏) at 1049,858 size 274x168
+[tappable] (said as: 😢) at 1322,858 size 273x168
+[tappable] (said as: 😍) at 1596,858 size 274x168
+[tappable] (said as: 😮) at 1869,858 size 273x168
+[tappable] (said as: 😂) at 2143,858 size 274x168
+[tappable] "Write a public comment…" at 1185,1004 size 2117x113
+           "Rustenburg Advertising and selling A to Z•Join" at 1200,422 size 1859x57
+           "AI content•Charlene Hitge Joubert invited you to join this group.•Meaty Bones Rustenburg•4h•Shared with: Public group" at 1082,484 size 1623x42
+[tappable] (said as: More options for Meaty Bones Rustenburg's post) at 2217,417 size 126x132
+           "Charlene Hitge Joubert invited you to join this group." at 1182,317 size 2111x46
+[tappable] (said as: Open Meaty Bones Rustenburg's story, unseen story) at 205,472 size 96x96
+[tappable] "Rustenburg Advertising and selling A to Z" at 720,422 size 898x57
+[tappable] "Join" at 1253,422 size 94x57
+[tappable] "AI content" at 354,484 size 166x42
+[tappable] "Meaty Bones Rustenburg" at 1548,484 size 406x42
+[tappable] "Charlene Hitge Joubert" at 330,317 size 407x46
+[tappable] "🔥🍖🥩10K - R300🥩🍖🔥
+🤟🤟🤟BEEF MEATY BONES 🤟🤟🤟" at 1185,620 size 2117x140
+[tappable] (said as: Photo) at 1185,725 size 2189x71
