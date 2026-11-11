@@ -2284,3 +2284,35 @@
 11-11 12:19:27  advert button: port_reward_4_dark
 11-11 12:19:43  stalled 13s on an unrecognised game screen, recovered into ad_play_card
 11-11 12:19:43  advert counted: ad_play_card closed it after 16s
+11-11 12:20:16  stalled 29s on a screen from com.android.systemui, recovered into ad_play_card
+11-11 12:20:42  stalled 22s on a screen from com.android.systemui, recovered into ad_play_card
+11-11 12:20:53  advert button: port_reward_4_dark
+11-11 12:20:57  advert NOT counted: port_menu pressed after 4s
+11-11 12:21:02  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-11 12:21:06  a browser opened (org.mozilla.firefox) - left it at once
+11-11 12:21:29  a browser opened (org.mozilla.firefox) - left it at once
+11-11 12:21:32  stalled 29s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:21:38  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-11 12:21:43  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:21:55  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:22:07  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:22:19  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:22:31  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:22:43  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:22:55  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:23:07  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:23:19  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:23:31  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:23:43  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:23:54  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:24:06  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:24:18  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:24:30  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:24:42  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:24:54  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:25:06  stalled 5s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 12:25:18  stalled 5s on a screen from com.android.systemui, recovered into results_return_port
+11-11 12:25:31  stalled 5s on a screen from com.android.systemui, recovered into results_return_port
+11-11 12:25:46  stalled 8s on a screen from com.android.systemui, recovered into results_return_port
+11-11 12:25:53  skipped a screenshot: cn.nubia.launcher is not the game or an advert
+11-11 12:25:58  === session stopped: 6 battles, 5 reward videos, 13 ad screens closed ===
