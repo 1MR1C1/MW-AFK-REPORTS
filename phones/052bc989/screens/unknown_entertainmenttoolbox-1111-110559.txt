@@ -1,0 +1,4 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           (said as: Game view) at 1200,540 size 2400x1080
