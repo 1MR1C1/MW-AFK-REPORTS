@@ -2079,3 +2079,32 @@
 11-11 10:59:46  advert button: port_reward_4_dark
 11-11 10:59:48  advert NOT counted: port_menu pressed after 1s
 11-11 10:59:57  a browser opened (org.mozilla.firefox) - left it at once
+11-11 11:01:09  photographed stuck
+11-11 11:01:21  stalled 88s on a screen from com.facebook.katana, recovered into port_menu
+11-11 11:01:31  stalled 6s on an unrecognised game screen, recovered into loading
+11-11 11:06:21  advert button: port_reward_4_dark
+11-11 11:06:23  advert NOT counted: port_menu pressed after 1s
+11-11 11:06:33  stalled 6s on a screen from cn.nubia.entertainmenttoolbox, recovered into loading
+11-11 11:10:06  stalled 5s on a screen from cn.nubia.entertainmenttoolbox, recovered into mw_loading_server_lc
+11-11 11:10:24  advert button: port_reward_4_dark
+11-11 11:10:26  advert NOT counted: port_menu pressed after 1s
+11-11 11:10:35  a browser opened (org.mozilla.firefox) - left it at once
+11-11 11:11:55  photographed stuck
+11-11 11:12:13  photographed stuck
+11-11 11:12:18  stalled 107s on a screen from com.facebook.katana, recovered into ad_not_ready
+11-11 11:12:21  advert button: port_reward_4_dark
+11-11 11:12:22  advert NOT counted: port_menu pressed after 1s
+11-11 11:12:34  stalled 7s on an unrecognised game screen, recovered into loading
+11-11 11:16:03  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-11 11:16:19  advert button: port_reward_4_dark
+11-11 11:16:21  advert NOT counted: port_menu pressed after 1s
+11-11 11:16:25  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-11 11:16:30  a browser opened (org.mozilla.firefox) - left it at once
+11-11 11:16:31  stalled 6s on a screen from com.facebook.katana, recovered into results_return_port
+11-11 11:16:38  skipped a screenshot: com.facebook.katana is not the game or an advert
+11-11 11:18:02  photographed stuck
+11-11 11:18:20  photographed stuck
+11-11 11:18:26  stalled 107s on a screen from com.facebook.katana, recovered into mw_loading_server
+11-11 11:18:30  advert button: port_reward_4_dark
+11-11 11:18:31  advert NOT counted: port_menu pressed after 1s
+11-11 11:18:42  stalled 6s on an unrecognised game screen, recovered into loading
