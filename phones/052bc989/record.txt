@@ -2316,3 +2316,12 @@
 11-11 12:25:46  stalled 8s on a screen from com.android.systemui, recovered into results_return_port
 11-11 12:25:53  skipped a screenshot: cn.nubia.launcher is not the game or an advert
 11-11 12:25:58  === session stopped: 6 battles, 5 reward videos, 13 ad screens closed ===
+11-13 12:41:23  
+11-13 12:41:23  === session started ===
+11-13 12:41:23  app 5.2  (build 44)
+11-13 12:41:23  game 0.110.2.120516560
+11-13 12:41:23  calibrated for 2400x1080, 45 rules
+11-13 12:41:23  install 052bc989
+11-13 12:41:23  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
+11-13 12:41:23  screen 1080x2400, 480dpi, 60Hz
+11-13 12:41:23  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
