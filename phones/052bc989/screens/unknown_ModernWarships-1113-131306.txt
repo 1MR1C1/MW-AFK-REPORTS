@@ -1,0 +1,24 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+[tappable] (said as: Interstitial close button) at 2295,105 size 210x210
+           id=adContainer at 1245,540 size 2309x1080
+           "Reward granted" at 2116,75 size 306x54
+           id=mys-wrapper at 668,603 size 1107x906
+           id=mys-wrapper at 1822,603 size 1110x906
+           id=mys-content at 668,603 size 1107x906
+           id=mys-content at 1822,603 size 1110x906
+           id=main at 668,603 size 1107x906
+           id=landscapeStyle at 1822,603 size 1110x906
+           "Transformers" at 764,601 size 795x129
+           "Autobots and Decepticons Unite" at 668,766 size 987x75
+           "Download now and fight side by side
+with Autobots and Decepticons." at 668,871 size 987x141
+           "Install" at 668,964 size 135x63
+[tappable] (said as: toys-649eca91493dc19d2da298c5%3Fgad_source%3D5%26gad_campaignid%3D24428471037&label=video_click_to_advertiser_site&ctype=110) at 1822,430 size 1110x561
+[tappable] (said as: Shop Now) at 1823,973 size 993x111
+[tappable] (said as: Get It Today) at 1507,769 size 360x81
+[tappable] (said as: checkers.co.za) at 1508,865 size 363x69
+           "Shop Now" at 1823,973 size 201x87
+           "Get It Today" at 1507,769 size 360x81
+           "checkers.co.za" at 1508,865 size 363x69
