@@ -2325,3 +2325,38 @@
 11-13 12:41:23  phone nubia NX666J (NX666J), Android 12 api 31, build SKQ1.211113.001 test-keys
 11-13 12:41:23  screen 1080x2400, 480dpi, 60Hz
 11-13 12:41:23  screen modes available: 1080x2400@60, 1080x2400@144, 1080x2400@120, 1080x2400@90
+11-13 12:41:53  photographed stuck
+11-13 12:41:59  stalled 29s on a screen from com.google.android.gms, recovered into menu_back
+11-13 12:42:10  advert button: port_reward_1
+11-13 12:42:23  advert NOT counted: results_return_port pressed after 12s
+11-13 12:43:02  skipped a screenshot: cn.nubia.supersnap is not the game or an advert
+11-13 12:43:11  stalled 8s on a screen from cn.nubia.supersnap, recovered into mw_loading_server
+11-13 12:43:17  advert button: port_reward_2_dark
+11-13 12:43:53  stalled 30s on an unrecognised game screen, recovered into results_return_port
+11-13 12:43:53  advert NOT counted: results_return_port pressed after 35s
+11-13 12:44:18  stalled 5s on an unrecognised game screen, recovered into mw_loading_server
+11-13 12:44:25  advert button: port_reward_3_dark
+11-13 12:44:28  advert NOT counted: results_return_port pressed after 3s
+11-13 12:45:16  stalled 9s on an unrecognised game screen, recovered into mw_loading_server
+11-13 12:45:23  advert button: port_reward_4_dark
+11-13 12:45:59  stalled 32s on an unrecognised game screen, recovered into ad_play_card
+11-13 12:45:59  advert counted: ad_play_card closed it after 35s
+11-13 12:46:17  stalled 14s on an unrecognised game screen, recovered into ad_play_card
+11-13 12:47:15  stalled 54s on an unrecognised game screen, recovered into ad_play_card
+11-13 12:47:37  stalled 7s on an unrecognised game screen, recovered into loading
+11-13 12:52:35  advert button: results_increase_reward
+11-13 12:52:35  photographed reward_screen
+11-13 12:52:47  photographed reward_10s
+11-13 12:53:15  stalled 22s on an unrecognised game screen, recovered into ad_play_card
+11-13 12:53:15  advert counted: ad_play_card closed it after 40s
+11-13 12:53:34  stalled 16s on an unrecognised game screen, recovered into ad_play_card
+11-13 12:54:22  stalled 44s on an unrecognised game screen, recovered into ad_play_card
+11-13 12:54:49  stalled 6s on an unrecognised game screen, recovered into loading
+11-13 12:59:07  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-13 12:59:15  advert button: results_increase_reward
+11-13 12:59:16  photographed reward_screen
+11-13 12:59:27  photographed reward_10s
+11-13 12:59:47  stalled 15s on an unrecognised game screen, recovered into ad_play_card
+11-13 12:59:47  advert counted: ad_play_card closed it after 32s
+11-13 13:00:03  stalled 12s on an unrecognised game screen, recovered into ad_play_card
+11-13 13:00:27  stalled 21s on an unrecognised game screen, recovered into ad_reward_x_disc
