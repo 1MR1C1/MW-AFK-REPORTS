@@ -2360,3 +2360,19 @@
 11-13 12:59:47  advert counted: ad_play_card closed it after 32s
 11-13 13:00:03  stalled 12s on an unrecognised game screen, recovered into ad_play_card
 11-13 13:00:27  stalled 21s on an unrecognised game screen, recovered into ad_reward_x_disc
+11-13 13:04:15  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-13 13:04:19  advert button: results_increase_reward
+11-13 13:04:20  photographed reward_screen
+11-13 13:04:31  photographed reward_10s
+11-13 13:04:56  stalled 19s on an unrecognised game screen, recovered into ad_play_card
+11-13 13:04:56  advert counted: ad_play_card closed it after 37s
+11-13 13:05:30  stalled 30s on an unrecognised game screen, recovered into ad_play_card
+11-13 13:12:15  stalled 5s on an unrecognised game screen, recovered into mw_loading_server_lc
+11-13 13:12:19  advert button: results_increase_reward
+11-13 13:12:20  photographed reward_screen
+11-13 13:12:31  photographed reward_10s
+11-13 13:12:52  stalled 15s on an unrecognised game screen, recovered into results_return_port
+11-13 13:12:52  advert NOT counted: results_return_port pressed after 33s
+11-13 13:13:11  stalled 5s on an unrecognised game screen, recovered into results_return_port
+11-13 13:13:35  stalled 5s on an unrecognised game screen, recovered into loading
+11-13 13:16:54  === session stopped: 5 battles, 4 reward videos, 11 ad screens closed ===
