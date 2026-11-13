@@ -1,0 +1,26 @@
+window package: com.Shooter.ModernWarships
+class: android.widget.FrameLayout
+---- what is on it ----
+           id=adContainer at 1245,540 size 2309x1080
+           "Ad 1 of 2" at 188,75 size 147x42
+           id=v4ws29er1exu at 1245,615 size 2309x930
+           id=gmsg-video-player at 409,615 size 522x930
+           "Reward in 20 seconds" at 2054,75 size 429x54
+           id=mys-wrapper at 1245,615 size 2309x930
+           id=abgcp at 2361,1030 size 77x99
+           id=mys-content at 1244,615 size 2193x930
+           id=abgc at 2374,1054 size 48x45
+           id=abgb at 2374,1054 size 48x45
+           id=landscape-portrait-phone at 1244,615 size 2193x930
+           "Transformers" at 1703,337 size 1059x105
+           "Wanda Cinemas Games" at 1703,436 size 1059x57
+[tappable] (said as: Install) at 1384,549 size 420x126
+           "Autobots and Decepticons Unite" at 1507,682 size 1452x57
+           "Download now and fight side by side with Autobots and Decepticons." at 1507,745 size 1452x57
+           "10" at 824,921 size 87x66
+           id=click-hint-container at 412,615 size 528x930
+           "Install" id=install-button at 1384,549 size 420x126
+           "You will be
+taken to the
+website after
+the ad" at 413,904 size 345x315
